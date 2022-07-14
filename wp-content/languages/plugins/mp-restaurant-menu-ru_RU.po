@@ -1,0 +1,3321 @@
+# Translation of Plugins - Restaurant Menu by MotoPress - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Restaurant Menu by MotoPress - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-07 17:17:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Restaurant Menu by MotoPress - Development (trunk)\n"
+
+#: classes/class-media.php:180
+msgctxt "Menu label"
+msgid "Restaurant Menu"
+msgstr "Restaurant menu"
+
+#: classes/class-media.php:1985
+msgctxt "Misc settings tab"
+msgid "Misc"
+msgstr "Разное"
+
+#: classes/class-media.php:1983
+msgctxt "Licenses settings tab"
+msgid "Licenses"
+msgstr "Лицензии"
+
+#: classes/class-media.php:1979
+msgctxt "Extensions settings tab"
+msgid "Extensions"
+msgstr "Дополнения"
+
+#: classes/class-media.php:1976
+msgctxt "Taxes settings tab"
+msgid "Taxes"
+msgstr "Налоги"
+
+#: classes/class-media.php:1975
+msgctxt "Styles settings tab"
+msgid "Styles"
+msgstr "Стили"
+
+#: classes/class-media.php:1974
+msgctxt "Email settings tab"
+msgid "Emails"
+msgstr "Письма"
+
+#: classes/class-media.php:1973
+msgctxt "Checkout settings tab"
+msgid "Checkout"
+msgstr "Оплата"
+
+#: classes/class-media.php:1972
+msgctxt "Payment settings tab"
+msgid "Payment"
+msgstr "Платеж"
+
+#: classes/class-media.php:1971
+msgctxt "Disapley settings tab"
+msgid "Display"
+msgstr "Отображение"
+
+#: classes/class-media.php:1970
+msgctxt "General settings tab"
+msgid "General"
+msgstr "Общие"
+
+#: classes/class-hooks.php:1030
+msgid "Edit Order #%s"
+msgstr "Редактировать заказ #%s"
+
+#: classes/models/class-emails.php:583
+msgid "Order notes."
+msgstr "Примечания к заказу."
+
+#. Author URI of the plugin
+msgid "https://motopress.com"
+msgstr "https://motopress.com"
+
+#: classes/models/shop/reports/customer-report-class.php:203
+msgid "Phone"
+msgstr "Телефон"
+
+#: classes/models/shop/class-payments.php:1548
+msgid "System"
+msgstr "Система"
+
+#: classes/models/class-emails.php:593
+msgid "Shipping address."
+msgstr "Адрес доставки."
+
+#: classes/models/class-emails.php:588
+msgid "The buyer's phone."
+msgstr "Телефон покупателя."
+
+#: classes/class-media.php:1362
+msgid "Cash On Delivery"
+msgstr "Оплата при доставке"
+
+#: classes/class-media.php:867
+msgid "Phone is Required"
+msgstr "Требуется телефон"
+
+#: classes/class-media.php:819
+msgid "Review an order and set Complete status manually."
+msgstr "Просмотрите заказ и установите статус \"Завершен\" вручную."
+
+#: classes/class-media.php:818
+msgid "Process Payments Manually"
+msgstr "Обработка платежей вручную"
+
+#: admin/customers/overview.php:37
+#: admin/metaboxes/order/customer-information.php:4
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: classes/class-media.php:496
+msgid "Choose a page template to control the appearance of your restaurant menu content."
+msgstr "Выберите шаблон страницы, чтобы контролировать внешний вид содержимого меню ресторана."
+
+#: classes/class-media.php:494
+msgid "Page template"
+msgstr "Шаблон страницы"
+
+#: classes/class-media.php:487
+msgid "Choose a view template to control the appearance of your restaurant menu content."
+msgstr "Выберите шаблон просмотра, чтобы контролировать внешний вид содержимого меню ресторана."
+
+#: classes/class-media.php:480
+msgid "Display categories and tags"
+msgstr "Отображать категории и метки"
+
+#: classes/class-media.php:1607
+msgid "Menu Item"
+msgstr "Элемент меню"
+
+#: classes/class-media.php:1609
+msgid "Add New Menu Item"
+msgstr "Добавить новый элемент меню"
+
+#: classes/models/class-extensions.php:135
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr "Не удалось получить список расширений с сервера. Пожалуйста, повторите попытку позже."
+
+#: classes/models/class-extensions.php:109
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+#: classes/models/class-extensions.php:106
+msgid "Invalid UTF-8 characters, possibly incorrect coding"
+msgstr "Недопустимые символы UTF-8, возможно неправильное кодирование"
+
+#: classes/models/class-extensions.php:103
+msgid "Syntax error, not a valid JSON"
+msgstr "Ошибка синтаксиса, недействительный JSON"
+
+#: classes/models/class-extensions.php:100
+msgid "Invalid escape character"
+msgstr "Недопустимый escape-символ"
+
+#: classes/models/class-extensions.php:97
+msgid "Incorrect level or match modes"
+msgstr "Неверные режимы уровня или соответствия"
+
+#: classes/models/class-extensions.php:94
+msgid "Reached the maximum stack depth"
+msgstr "Достигнута максимальная глубина стека"
+
+#: classes/models/class-extensions.php:91
+msgid "Error none"
+msgstr "Ошибка отсутствует"
+
+#: admin/extensions/extensions-view.php:19
+msgid "Get this Extension"
+msgstr "Получить это дополнение"
+
+#: admin/extensions/extensions-page.php:3
+msgid "Browse All Extensions"
+msgstr "Просмотреть все дополнения"
+
+#: admin/extensions/extensions-page.php:2
+msgid "Extensions for Restaurant Menu"
+msgstr "Дополнения для плагина Меню ресторана"
+
+#: templates-functions/checkout-restaurant-menu-functions.php:211
+msgid "Order totals"
+msgstr "Сумма заказа"
+
+#: templates/shop/checkout.php:9
+msgid "Required fields are followed by"
+msgstr "Обязательные для заполнения поля обозначены"
+
+#: templates/common/notice.php:8
+msgid "An error occurred. Please try again later."
+msgstr "Произошла ошибка. Пожалуйста, повторите попытку позже."
+
+#: templates/common/notice.php:5
+msgid "View cart"
+msgstr "Посмотреть корзину"
+
+#: templates/common/notice.php:4
+msgid "has been added to your cart."
+msgstr "уже в корзине."
+
+#: configs/language-admin-js.php:27
+msgid "Tax must be numeric"
+msgstr "Налог должен быть числовой"
+
+#: classes/models/shop/class-order.php:677
+msgid "Delivery"
+msgstr "Доставка"
+
+#: classes/models/shop/class-order.php:619
+msgid "Delivery details"
+msgstr "Детали доставки"
+
+#: classes/class-media.php:1749
+msgid "Ingredient"
+msgstr "Ингредиент"
+
+#: classes/class-media.php:1617
+msgid "media"
+msgstr "медиа"
+
+#: classes/class-media.php:1616
+msgid "No menu items found in Trash"
+msgstr "В корзине нет элементов меню"
+
+#: classes/class-media.php:1615
+msgid "No menu items found"
+msgstr "Элементы меню не найдены"
+
+#: classes/class-media.php:1614
+msgid "Search Menu Item"
+msgstr "Найти элемент меню"
+
+#: classes/class-media.php:1613
+msgid "View Menu Item"
+msgstr "Просмотр элемента меню"
+
+#: classes/class-media.php:1612
+msgid "All Menu Items"
+msgstr "Все элементы меню"
+
+#: classes/class-media.php:1611
+msgid "New Menu Item"
+msgstr "Новый элемент меню"
+
+#: classes/class-media.php:1610
+msgid "Edit Menu Item"
+msgstr "Редактировать элемент меню"
+
+#: classes/class-media.php:441
+msgid "Number of decimal points shown in displayed prices"
+msgstr "Количество десятичных знаков отображаемых цен"
+
+#: classes/class-media.php:440
+msgid "Number of Decimals"
+msgstr "Количество десятичных знаков"
+
+#: classes/class-capability.php:76
+msgid "Restaurant Customer"
+msgstr "Клиент ресторана"
+
+#: classes/class-capability.php:45
+msgid "Restaurant Manager"
+msgstr "Менеджер ресторана"
+
+#: classes/shortcodes/class-shortcode-item.php:142 classes/class-media.php:570
+#: classes/class-media.php:657 admin/popups/shortcode-mprm_items.php:113
+#: admin/widgets/menu/form.php:94
+msgid "Show buy button"
+msgstr "Показать кнопку покупки"
+
+#: admin/metaboxes/order/update-order.php:114
+msgid "Save Order"
+msgstr "Сохранить заказ"
+
+#: admin/metaboxes/order/update-order.php:110
+msgid "Delete Order"
+msgstr "Удалить заказ"
+
+#: admin/metaboxes/order/update-order.php:73
+msgid "Price of Delivery"
+msgstr "Стоимость доставки"
+
+#: classes/class-media.php:923 configs/metaboxes.php:18
+msgid "Price in monetary decimal (.) format without thousand separators and currency symbols"
+msgstr "Цена в денежном десятичном (.) формате без разделителей тысяч и символов валюты"
+
+#: classes/class-media.php:433
+msgid "Decimal separator of displayed prices"
+msgstr "Десятичный разделитель отображаемых цен"
+
+#: classes/class-media.php:425
+msgid "Thousand separator of displayed prices"
+msgstr "Разделитель тысячных отображаемых цен"
+
+#: templates-functions/theme-support-functions.php:70
+msgid "Nutritional"
+msgstr "Пищевая ценность"
+
+#: classes/models/class-emails.php:548
+msgid "The taxed amount of the purchase"
+msgstr "Облагаемая сумма покупки"
+
+#: classes/class-media.php:1096
+msgid "Specify a tax rate percentage (e.g. 10%). All customers will be charged this rate."
+msgstr "Укажите процентную ставку налога (например, 10%). Все клиенты будут платить эту ставку."
+
+#: classes/class-media.php:1095
+msgid "Tax Rate"
+msgstr "Ставка налога"
+
+#: classes/class-media.php:1090
+msgid "Check this box to enable taxes on purchases."
+msgstr "Установите этот флажок, чтобы включить налоги при покупке."
+
+#: classes/class-media.php:1089
+msgid "Enable Taxes"
+msgstr "Включить налоги"
+
+#: classes/class-media.php:1084 classes/class-media.php:1376
+msgid "Tax Settings"
+msgstr "Настройки налогов"
+
+#: classes/class-media.php:385
+msgid "Choose Developer Mode to control appearance of the content with custom page templates, actions and filters. This option can't be changed if your theme is initially integrated with the plugin."
+msgstr "Выберите «Режим разработчика», чтобы контролировать внешний вид содержимого с помощью пользовательских шаблонов страниц, действий и фильтров. Эта опция не может быть изменена, если ваша тема первоначально интегрирована с этим плагином."
+
+#: classes/class-media.php:385
+msgid "Choose Theme Mode to display the content with the styles of your theme."
+msgstr "Выберите «Режим темы», чтобы отобразить содержимое со стилями вашей темы."
+
+#: classes/class-media.php:382
+msgid "Developer Mode"
+msgstr "Режим разработчика"
+
+#: classes/class-media.php:381
+msgid "Theme Mode"
+msgstr "Режим темы"
+
+#: classes/class-media.php:379
+msgid "Template Mode"
+msgstr "Режим шаблона"
+
+#: classes/class-core.php:379
+msgid "Plugin"
+msgstr "Плагин"
+
+#: classes/shortcodes/class-shortcode-item.php:154
+#: admin/widgets/menu/form.php:102
+msgid "Excerpt length"
+msgstr "Длина короткого описания"
+
+#: classes/shortcodes/class-shortcode-item.php:92 classes/class-media.php:692
+#: admin/widgets/menu/form.php:51
+msgid "Price position"
+msgstr "Позиция цены"
+
+#: classes/shortcodes/class-shortcode-item.php:96 classes/class-media.php:696
+#: admin/popups/shortcode-mprm_items.php:60 admin/widgets/menu/form.php:55
+msgid "Price next to the title"
+msgstr "Цена рядом с названием"
+
+#: classes/shortcodes/class-shortcode-item.php:95 classes/class-media.php:695
+#: admin/popups/shortcode-mprm_items.php:59 admin/widgets/menu/form.php:54
+msgid "Price on the right"
+msgstr "Цена справа"
+
+#: classes/shortcodes/class-shortcode-item.php:94 classes/class-media.php:694
+#: admin/popups/shortcode-mprm_items.php:58 admin/widgets/menu/form.php:53
+msgid "Dotted line and price on the right"
+msgstr "Пунктирная линия и цена справа"
+
+#: admin/popups/shortcode-mprm_items.php:55
+msgid "Price position:"
+msgstr "Позиция цены:"
+
+#: classes/shortcodes/class-shortcode-item.php:54 classes/class-media.php:485
+#: classes/class-media.php:1356 admin/popups/shortcode-mprm_items.php:7
+#: admin/widgets/menu/form.php:11
+msgid "Simple list"
+msgstr "Простой список"
+
+#: admin/notices/install-plugin.php:5
+msgid "Activate eCommerce"
+msgstr "Активировать электронную торговлю"
+
+#: admin/notices/install-plugin.php:3
+msgid "Press \"Activate eCommerce\" button to activate eCommerce option and create Checkout pages. Press \"Skip\" if you do not want to sell food and beverages online."
+msgstr "Нажмите кнопку «Активировать электронную торговлю», чтобы активировать опцию электронной коммерции и создать страницы оплаты. Нажмите «Пропустить», если вы не хотите продавать еду и напитки онлайн."
+
+#: admin/notices/install-plugin.php:2
+msgid "Restaurant Menu Plugin - eCommerce Setup"
+msgstr "Плагин меню ресторана - установка eCommerce"
+
+#. Description of the plugin
+msgid "This plugin gives you the power to effectively create, maintain and display online menus for almost any kind of restaurant, cafes and other typical food establishments."
+msgstr "Этот плагин дает вам возможность эффективно создавать, поддерживать и отображать онлайн-меню практически для любого ресторана, кафе и других типичных продуктовых заведений."
+
+#: templates-functions/restaurant-menu-shop-functions.php:985
+msgid "Select a Customer"
+msgstr "Выберите клиента"
+
+#: templates-functions/restaurant-menu-shop-functions.php:971
+msgid "No customer attached"
+msgstr "Нет клиентских приложений"
+
+#: admin/metaboxes/order/order-purchased.php:86
+#: admin/metaboxes/order/order-purchased.php:87
+msgid "Select a Menu item"
+msgstr "Выберите элемент меню"
+
+#: templates-functions/restaurant-menu-shop-functions.php:955
+msgid "No products found"
+msgstr "Не найдено ни одного продукта"
+
+#: templates-functions/cart-restaurant-menu-functions.php:211
+msgid "Save Cart"
+msgstr "Сохранить корзину"
+
+#: templates-functions/cart-restaurant-menu-functions.php:209
+msgid "Restore Previous Cart"
+msgstr "Восстановить предыдущую корзину"
+
+#: templates-functions/cart-restaurant-menu-functions.php:193
+msgid "Update Cart"
+msgstr "Обновить корзину"
+
+#: templates-functions/restaurant-menu-shop-functions.php:527
+msgid "Your password"
+msgstr "Ваш пароль"
+
+#: templates-functions/restaurant-menu-shop-functions.php:516
+msgid "Your username"
+msgstr "Ваше имя пользователя"
+
+#: templates-functions/restaurant-menu-shop-functions.php:501
+msgid "or checkout as a guest."
+msgstr "или просмотр в качестве гостя."
+
+#: templates-functions/restaurant-menu-shop-functions.php:499
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: templates-functions/restaurant-menu-shop-functions.php:497
+msgid "Need to create an account?"
+msgstr "Необходимо создать учетную запись?"
+
+#: templates-functions/restaurant-menu-shop-functions.php:468
+msgid "Hide Terms"
+msgstr "Скрыть условия"
+
+#: templates-functions/restaurant-menu-shop-functions.php:467
+msgid "Show Terms"
+msgstr "Показать условия"
+
+#: templates-functions/restaurant-menu-shop-functions.php:456
+msgid "Agree to Terms?"
+msgstr "Согласны с условиями?"
+
+#: templates-functions/restaurant-menu-shop-functions.php:425
+msgid "The state or province for your billing address."
+msgstr "Штат или область для вашего платежного адреса."
+
+#: templates-functions/restaurant-menu-shop-functions.php:420
+msgid "Billing State / Province"
+msgstr "Платежный адрес Штат / Провинция"
+
+#: templates-functions/restaurant-menu-shop-functions.php:400
+msgid "The country for your billing address."
+msgstr "Страна для вашего платежного адреса."
+
+#: templates-functions/restaurant-menu-shop-functions.php:395
+msgid "Billing Country"
+msgstr "Страна плательщика"
+
+#: templates-functions/restaurant-menu-shop-functions.php:389
+msgid "Zip / Postal Code"
+msgstr "Почтовый индекс"
+
+#: templates-functions/restaurant-menu-shop-functions.php:386
+msgid "The zip or postal code for your billing address."
+msgstr "Почтовый индекс для вашего платежного адреса."
+
+#: templates-functions/restaurant-menu-shop-functions.php:381
+msgid "Billing Zip / Postal Code"
+msgstr "Почтовый индекс платежного адреса"
+
+#: templates-functions/restaurant-menu-shop-functions.php:375
+msgid "City"
+msgstr "Город"
+
+#: templates-functions/restaurant-menu-shop-functions.php:372
+msgid "The city for your billing address."
+msgstr "Город для вашего платежного адреса."
+
+#: templates-functions/restaurant-menu-shop-functions.php:367
+msgid "Billing City"
+msgstr "Город платежного адреса"
+
+#: templates-functions/restaurant-menu-shop-functions.php:361
+msgid "Address line 2"
+msgstr "Адресная строка 2"
+
+#: templates-functions/restaurant-menu-shop-functions.php:358
+msgid "The suite, apt no, PO box, etc, associated with your billing address."
+msgstr "Набор, apt no, абонентский ящик и т. д., связанный с вашим платежным адресом."
+
+#: templates-functions/restaurant-menu-shop-functions.php:353
+msgid "Billing Address Line 2 (optional)"
+msgstr "Платежная адресная строка 2 (необязательно)"
+
+#: templates-functions/restaurant-menu-shop-functions.php:347
+msgid "Address line 1"
+msgstr "Адресная строка 1"
+
+#: templates-functions/restaurant-menu-shop-functions.php:344
+msgid "The primary billing address for your credit card."
+msgstr "Основной платежный адрес вашей кредитной карты."
+
+#: templates-functions/restaurant-menu-shop-functions.php:295
+msgid "Confirm password"
+msgstr "Подтвердите пароль"
+
+#: templates-functions/restaurant-menu-shop-functions.php:292
+msgid "Confirm your password."
+msgstr "Подтвердите ваш пароль."
+
+#: templates-functions/restaurant-menu-shop-functions.php:287
+msgid "Password Again"
+msgstr "Пароль еще раз"
+
+#: templates-functions/restaurant-menu-shop-functions.php:279
+msgid "The password used to access your account."
+msgstr "Пароль, используемый для доступа к вашей учетной записи."
+
+#: templates-functions/restaurant-menu-shop-functions.php:266
+msgid "The username you will use to log into your account."
+msgstr "Имя пользователя, которое вы будете использовать для входа в свою учетную запись."
+
+#: templates-functions/restaurant-menu-shop-functions.php:261
+#: templates-functions/restaurant-menu-shop-functions.php:270
+#: templates-functions/restaurant-menu-shop-functions.php:509
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: templates-functions/restaurant-menu-shop-functions.php:254
+msgid "(optional)"
+msgstr "(необязательно)"
+
+#: templates-functions/restaurant-menu-shop-functions.php:252
+msgid "Create an account"
+msgstr "Создать учетную запись"
+
+#: templates-functions/restaurant-menu-shop-functions.php:247
+#: templates-functions/restaurant-menu-shop-functions.php:536
+msgid "Login"
+msgstr "Авторизоваться"
+
+#: templates-functions/restaurant-menu-shop-functions.php:247
+msgid "Already have an account?"
+msgstr "У вас уже есть учетная запись?"
+
+#: templates-functions/checkout-restaurant-menu-functions.php:40
+msgid "Next"
+msgstr "Следующий"
+
+#: templates-functions/restaurant-menu-shop-functions.php:65
+msgid "Select Payment Method"
+msgstr "Выберите способ оплаты"
+
+#: classes/models/shop/class-purchase.php:37
+#: templates/widgets/cart/theme-mode.php:13
+#: templates/widgets/cart/plugin-mode.php:21
+#: templates-functions/cart-restaurant-menu-functions.php:178
+msgid "Your cart is empty."
+msgstr "Ваша корзина пуста."
+
+#: templates/widgets/cart/plugin-mode.php:14
+#: templates/widgets/cart/plugin-mode.php:24
+msgid "Estimated Tax:"
+msgstr "Приблизительный налог:"
+
+#: templates/widgets/cart/theme-mode.php:9
+#: templates/widgets/cart/plugin-mode.php:13
+#: templates/widgets/cart/plugin-mode.php:23
+msgid "Subtotal:"
+msgstr "Промежуточный итог:"
+
+#: templates/widgets/cart/plugin-mode.php:3
+msgid "Number of items in cart"
+msgstr "Количество товаров в корзине"
+
+#: templates/widgets/cart/cart-item-plugin.php:6
+#: templates/widgets/cart/cart-item.php:6
+msgid "remove"
+msgstr "удалить"
+
+#: templates/shop/user-info-fields.php:52
+msgid "Last name"
+msgstr "Фамилия"
+
+#: templates/shop/user-info-fields.php:45
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: templates/shop/user-info-fields.php:37
+msgid "First name"
+msgstr "Имя"
+
+#: templates/shop/user-info-fields.php:32
+msgid "First Name"
+msgstr "Имя"
+
+#: templates/shop/user-info-fields.php:25
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: templates/shop/user-info-fields.php:21
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: templates/shop/user-info-fields.php:12
+msgid "Email address"
+msgstr "Адрес электронной почты"
+
+#: templates/shop/user-info-fields.php:7
+msgid "Email Address"
+msgstr "Адрес электронной почты"
+
+#: templates/shop/user-info-fields.php:3
+#: templates-functions/restaurant-menu-shop-functions.php:335
+msgid "Billing Details"
+msgstr "Платежные реквизиты"
+
+#: templates/shop/success.php:130
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+#: templates/shop/success.php:89
+msgid "Discount(s)"
+msgstr "Скидка(и)"
+
+#: templates/shop/success.php:58
+msgid "Payment Method"
+msgstr "Способ оплаты"
+
+#: templates/shop/success.php:52
+msgid "Payment Key"
+msgstr "Ключ оплаты"
+
+#: templates/shop/success.php:22
+msgid "The specified receipt ID appears to be invalid"
+msgstr "Указанный идентификатор квитанции недействителен"
+
+#: templates/shop/processing.php:2
+msgid "Your purchase is processing. This page will reload automatically in 8 seconds. If it does not, click <a href=\"%s\">here</a>."
+msgstr "Ваша покупка обрабатывается. Эта страница перезагрузится автоматически через 8 секунд. Если этого не произойдет, нажмите <a href=\"%s\">здесь</a>."
+
+#: templates/shop/login.php:35
+msgid "You are already logged in"
+msgstr "Вы уже вошли"
+
+#: templates/shop/login.php:28
+msgid "Lost Password?"
+msgstr "Потеряли пароль?"
+
+#: templates/shop/login.php:23
+msgid "Log In"
+msgstr "Авторизуйтесь"
+
+#: templates/shop/login.php:16
+#: templates-functions/restaurant-menu-shop-functions.php:274
+#: templates-functions/restaurant-menu-shop-functions.php:283
+#: templates-functions/restaurant-menu-shop-functions.php:520
+msgid "Password"
+msgstr "Пароль"
+
+#: templates/shop/login.php:12 templates/shop/login.php:13
+msgid "Username or Email"
+msgstr "Имя пользователя или адрес электронной почты"
+
+#: templates/shop/login.php:8
+msgid "Log into Your Account"
+msgstr "Войдите в свою учетную запись"
+
+#: templates/shop/history.php:62
+msgid "Your account is pending verification. Please click the link in your email to activate your account. No email? <a href=\"%s\">Click here</a> to send a new activation code."
+msgstr "Ваша учетная запись ожидает подтверждения. Чтобы активировать свою учетную запись, нажмите на ссылку в своем письме. Не получили письмо? <a href=\"%s\">Нажмите здесь</a>, чтобы отправить новый код активации."
+
+#: templates/shop/history.php:51
+msgid "Login."
+msgstr "Вход."
+
+#: templates/shop/history.php:50
+msgid "You must be logged in to view your purchases."
+msgstr "Вы должны войти в систему, чтобы просмотреть ваши покупки."
+
+#: templates/shop/history.php:46
+msgid "You have not made any purchases"
+msgstr "Вы не сделали никаких покупок"
+
+#: templates/shop/history.php:57
+msgid "An email with an activation link has been sent."
+msgstr "Отправлено электронное письмо со ссылкой активации."
+
+#: templates/shop/history.php:27
+msgid "View Details"
+msgstr "Посмотреть детали"
+
+#: templates/shop/history.php:15
+msgid "Details"
+msgstr "Детали"
+
+#: templates/shop/history.php:13
+msgid "Amount"
+msgstr "Количество"
+
+#: classes/models/shop/reports/customer-report-class.php:200
+#: templates/shop/history.php:11
+msgid "ID"
+msgstr "ID"
+
+#: templates/shop/get_cc_form.php:42
+#: templates-functions/restaurant-menu-shop-functions.php:222
+msgid "The date your credit card expires, typically on the front of the card."
+msgstr "Дата срока действия вашей кредитной карты истекла, как правило, она находится на лицевой стороне карты."
+
+#: templates/shop/get_cc_form.php:39
+#: templates-functions/restaurant-menu-shop-functions.php:219
+msgid "Expiration (MM/YY)"
+msgstr "Срок годности (MM/YY)"
+
+#: templates/shop/get_cc_form.php:34
+#: templates-functions/restaurant-menu-shop-functions.php:214
+msgid "Card name"
+msgstr "Название карты"
+
+#: templates/shop/get_cc_form.php:33
+#: templates-functions/restaurant-menu-shop-functions.php:213
+msgid "The name printed on the front of your credit card."
+msgstr "Название находится на лицевой стороне вашей кредитной карты."
+
+#: templates/shop/get_cc_form.php:30
+#: templates-functions/restaurant-menu-shop-functions.php:210
+msgid "Name on the Card"
+msgstr "Имя на карте"
+
+#: templates/shop/get_cc_form.php:26
+#: templates-functions/restaurant-menu-shop-functions.php:206
+msgid "Security code"
+msgstr "Код безопасности"
+
+#: templates/shop/get_cc_form.php:25
+#: templates-functions/restaurant-menu-shop-functions.php:205
+msgid "The 3 digit (back) or 4 digit (front) value on your card."
+msgstr "3-значное (на обратной стороне) или 4-значное (на лицевой) значение на вашей карте."
+
+#: templates/shop/get_cc_form.php:22
+#: templates-functions/restaurant-menu-shop-functions.php:202
+msgid "CVC"
+msgstr "CVC"
+
+#: templates/shop/get_cc_form.php:18
+#: templates-functions/restaurant-menu-shop-functions.php:198
+msgid "Card number"
+msgstr "Номер карты"
+
+#: templates/shop/get_cc_form.php:17
+#: templates-functions/restaurant-menu-shop-functions.php:197
+msgid "The (typically) 16 digits on the front of your credit card."
+msgstr "(Обычно) 16 цифр на лицевой стороне вашей кредитной карты."
+
+#: templates/shop/get_cc_form.php:13
+#: templates-functions/restaurant-menu-shop-functions.php:193
+msgid "Card Number"
+msgstr "Номер карты"
+
+#: templates/shop/get_cc_form.php:8
+#: templates-functions/restaurant-menu-shop-functions.php:188
+msgid "This is a secure SSL encrypted payment."
+msgstr "Это безопасный SSL-шифрованный платеж."
+
+#: templates/shop/get_cc_form.php:4
+#: templates-functions/restaurant-menu-shop-functions.php:184
+msgid "Credit Card Info"
+msgstr "Информация о кредитной карте"
+
+#: templates/shop/success.php:98
+#: templates-functions/checkout-restaurant-menu-functions.php:215
+msgid "Subtotal"
+msgstr "Промежуточный итог"
+
+#: classes/models/shop/class-order.php:682 templates/shop/checkout-cart.php:17
+msgid "Actions"
+msgstr "Действия"
+
+#: templates/shop/checkout-cart.php:12
+msgid "Product"
+msgstr "Продукт"
+
+#: templates-functions/checkout-restaurant-menu-functions.php:199
+msgid "Order notes:"
+msgstr "Примечания к заказу:"
+
+#: templates-functions/checkout-restaurant-menu-functions.php:187
+msgid "Enter your address."
+msgstr "Введите свой адрес."
+
+#: templates-functions/checkout-restaurant-menu-functions.php:185
+msgid "Shipping address:"
+msgstr "Адрес доставки:"
+
+#: templates/shop/checkout-additional-information.php:3
+msgid "Additional information"
+msgstr "Дополнительная информация"
+
+#: configs/settings.php:28 templates/shop/success.php:142
+msgid "Products"
+msgstr "Продукты"
+
+#: configs/language-admin-js.php:40
+msgid "Are you sure you want to reset your store? This process is <strong><em>not reversible</em></strong>. Please be sure you have a recent backup."
+msgstr "Вы действительно хотите сбросить свой магазин? Этот процесс <strong><em>необратим</em></ strong>. Убедитесь, что у вас есть последняя резервная копия."
+
+#: configs/language-admin-js.php:39
+msgid "Required fields not completed."
+msgstr "Обязательные поля не заполнены."
+
+#: configs/language-admin-js.php:38
+msgid "You must choose a method."
+msgstr "Вы должны выбрать способ."
+
+#: configs/language-admin-js.php:26
+msgid "Quantity must be numeric"
+msgstr "Количество должно быть числовым"
+
+#: configs/language-admin-js.php:25
+msgid "Item price must be numeric"
+msgstr "Цена товара должна быть числовой"
+
+#: configs/language-admin-js.php:22
+msgid "Orders must contain at least one item"
+msgstr "Заказы должны содержать хотя бы один элемент"
+
+#: configs/language-admin-js.php:21
+msgid "You must have at least one field"
+msgstr "У вас должно быть хотя бы одно поле"
+
+#: configs/language-admin-js.php:20
+msgid "You must have at least one price"
+msgstr "У вас должна быть хотя бы одна цена"
+
+#: configs/language-admin-js.php:18
+msgid "Are you sure you wish to resend the purchase receipt?"
+msgstr "Вы действительно хотите повторно отправить квитанцию о покупке?"
+
+#: configs/language-admin-js.php:17
+msgid "Are you sure you wish to delete this note?"
+msgstr "Вы уверены, что хотите удалить это примечание?"
+
+#: configs/language-admin-js.php:16
+msgid "Are you sure you wish to delete this payment?"
+msgstr "Вы действительно хотите удалить этот платеж?"
+
+#: configs/language-admin-js.php:15
+msgid "Sorry, not available for variable priced products."
+msgstr "Извините, недоступно для продуктов с переменной ценой."
+
+#: configs/language-admin-js.php:14
+msgid "Use This File"
+msgstr "Использовать этот файл"
+
+#: configs/language-admin-js.php:13
+msgid "Add New Menu item"
+msgstr "Добавить новый элемент меню"
+
+#: classes/widgets/class-cart-widget.php:107
+msgid "Hide on Checkout Page"
+msgstr "Скрыть на странице заказа"
+
+#: classes/widgets/class-cart-widget.php:101
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: classes/widgets/class-cart-widget.php:17
+msgid "Display the user's Cart in the sidebar."
+msgstr "Отображать корзину пользователя на боковой панели сайта."
+
+#: classes/widgets/class-cart-widget.php:17
+msgid "Restaurant Menu Cart"
+msgstr "Корзина Меню Ресторана"
+
+#: classes/shortcodes/class-shortcode-success.php:37
+msgid "Sorry, trouble retrieving payment receipt."
+msgstr "Извините, проблема с получением квитанции об оплате."
+
+#: classes/modules/class-post.php:82
+msgid "Shipping <span class=\"count\">(%s)</span>"
+msgid_plural "Shipping <span class=\"count\">(%s)</span>"
+msgstr[0] "Доставляется <span class=\"count\">(%s)</span>"
+msgstr[1] "Доставляется <span class=\"count\">(%s)</span>"
+msgstr[2] "Доставляется <span class=\"count\">(%s)</span>"
+
+#: classes/modules/class-post.php:77
+msgctxt "Order status"
+msgid "Shipping"
+msgstr "Доставляется"
+
+#: classes/modules/class-post.php:64
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] "Отклонен <span class=\"count\">(%s)</span>"
+msgstr[1] "Отклонен <span class=\"count\">(%s)</span>"
+msgstr[2] "Отклонен <span class=\"count\">(%s)</span>"
+
+#: classes/modules/class-post.php:59
+msgctxt "Order status"
+msgid "Failed"
+msgstr "Отклонен"
+
+#: classes/modules/class-post.php:55
+msgid "Refunded <span class=\"count\">(%s)</span>"
+msgid_plural "Refunded <span class=\"count\">(%s)</span>"
+msgstr[0] "Возвращен <span class=\"count\">(%s)</span>"
+msgstr[1] "Возвращен <span class=\"count\">(%s)</span>"
+msgstr[2] "Возвращен <span class=\"count\">(%s)</span>"
+
+#: classes/modules/class-post.php:50
+msgctxt "Order status"
+msgid "Refunded"
+msgstr "Возвращен"
+
+#: classes/modules/class-post.php:86
+msgctxt "Order status"
+msgid "Completed"
+msgstr "Завершен"
+
+#: classes/modules/class-post.php:32
+msgctxt "Order status"
+msgid "Pending Payment"
+msgstr "В ожидании оплаты"
+
+#: classes/models/shop/reports/customer-report-class.php:206
+msgid "Date Created"
+msgstr "Дата создания"
+
+#: classes/models/shop/reports/customer-report-class.php:205
+msgid "Total Spent"
+msgstr "Всего потрачено"
+
+#: classes/models/shop/reports/customer-report-class.php:204
+msgid "Purchases"
+msgstr "Покупки"
+
+#: classes/models/shop/reports/customer-report-class.php:202
+#: configs/settings.php:30
+msgid "Email"
+msgstr "Электронная почта"
+
+#: classes/models/shop/reports/customer-report-class.php:201
+#: templates/shop/success.php:146
+msgid "Name"
+msgstr "Имя"
+
+#: classes/models/shop/reports/customer-report-class.php:152
+msgid "(Pending Verification)"
+msgstr "(Ожидание проверки)"
+
+#: classes/models/shop/reports/customer-report-class.php:48
+msgid "Customer"
+msgstr "Клиент"
+
+#: classes/models/shop/gateways/paypal.php:215
+msgid "Invalid IPN"
+msgstr "Неверный IPN"
+
+#: classes/models/shop/gateways/paypal-standard.php:461
+msgid "PayPal Refund Transaction ID: %s"
+msgstr "ID транзакции возврата денег через PayPal: %s"
+
+#: classes/models/shop/gateways/paypal-standard.php:460
+msgid "PayPal Payment #%s Refunded for reason: %s"
+msgstr "PayPal платеж #%s Возврат по причине: %s"
+
+#: classes/models/shop/gateways/paypal-standard.php:457
+msgid "Partial PayPal refund processed: %s"
+msgstr "Частичный возврат платежа PayPal: %s"
+
+#: classes/models/shop/gateways/paypal-standard.php:426
+msgid "Payment is pending for unknown reasons. Contact PayPal support for assistance"
+msgstr "Платеж в ожидании по неизвестным причинам. Обратитесь в службу поддержки PayPal за помощью."
+
+#: classes/models/shop/gateways/paypal-standard.php:423
+msgid "PayPal account is not verified. Verify account in order to accept this payment"
+msgstr "Учетная запись PayPal не подтверждена. Подтвердите учетную запись, чтобы принять этот платеж."
+
+#: classes/models/shop/gateways/paypal-standard.php:420
+msgid "PayPal account must be upgraded before this payment can be accepted"
+msgstr "Учетная запись PayPal должна быть обновлена до того, как этот платеж будет принят"
+
+#: classes/models/shop/gateways/paypal-standard.php:417
+msgid "Payment was sent to non-confirmed or non-registered email address."
+msgstr "Оплата была отправлена на неподтвержденный или незарегистрированный адрес электронной почты."
+
+#: classes/models/shop/gateways/paypal-standard.php:414
+msgid "Payment is being reviewed by PayPal staff as high-risk or in possible violation of government regulations"
+msgstr "Платеж проверяется сотрудниками PayPal как чрезвычайно рискованный или  возможно нарушающий правительственные правила."
+
+#: classes/models/shop/gateways/paypal-standard.php:410
+msgid "Payment received in non-shop currency and must be accepted manually through PayPal"
+msgstr "Оплата получена не в валюте магазина и должна быть принята вручную через PayPal."
+
+#: classes/models/shop/gateways/paypal-standard.php:407
+msgid "Payment must be accepted manually through PayPal due to international account regulations"
+msgstr "Оплата должна приниматься вручную через PayPal в соответствии с международными правилами учетной записи."
+
+#: classes/models/shop/gateways/paypal-standard.php:404
+msgid "Payment requires a confirmed customer address and must be accepted manually through PayPal"
+msgstr "Оплата требует подтвержденного адреса клиента и должна быть принята вручную через PayPal"
+
+#: classes/models/shop/gateways/paypal-standard.php:401
+msgid "Payment made via eCheck and will clear automatically in 5-8 days"
+msgstr "Оплата произведена через eCheck и будет автоматически очищена через 5-8 дней"
+
+#: classes/models/shop/gateways/paypal-standard.php:393
+msgid "PayPal Transaction ID: %s"
+msgstr "ID транзакции PayPal: %s"
+
+#: classes/models/shop/gateways/paypal-standard.php:389
+msgid "Payment failed due to invalid purchase key in PayPal IPN."
+msgstr "Не удалось выполнить платеж из-за недействительного ключа покупки в IPN PayPal."
+
+#: classes/models/shop/gateways/paypal-standard.php:382
+msgid "Payment failed due to invalid amount in PayPal IPN."
+msgstr "Платеж не выполнен из-за недействительной суммы в IPN PayPal."
+
+#: classes/models/shop/gateways/paypal-standard.php:344
+msgid "Payment failed due to invalid currency in PayPal IPN."
+msgstr "Не удалось выполнить платеж из-за недействительной валюты в IPN PayPal."
+
+#: classes/models/shop/gateways/paypal-standard.php:337
+msgid "Payment failed due to invalid PayPal business email."
+msgstr "Не удалось выполнить платеж из-за недействительной электронной почты PayPal."
+
+#: classes/models/shop/gateways/manual-payment-class.php:27
+#: classes/models/shop/gateways/test-manual-payment-class.php:27
+#: classes/models/shop/gateways/paypal-standard.php:28
+msgid "Nonce verification has failed"
+msgstr "Текущая проверка не удалась"
+
+#: classes/models/shop/gateways/class-shop-gateways.php:309
+#: classes/models/shop/gateways/class-shop-gateways.php:326
+msgid "Free Purchase"
+msgstr "Бесплатная покупка"
+
+#: classes/models/shop/gateways/class-shop-gateways.php:233
+msgid "The requested price ID does not exist."
+msgstr "ID запрашиваемой цены не существует."
+
+#: classes/class-media.php:808
+#: classes/models/shop/gateways/class-shop-gateways.php:87
+#: classes/models/shop/gateways/class-shop-gateways.php:88
+msgid "Cash on delivery"
+msgstr "Оплата при доставке"
+
+#: classes/models/shop/gateways/class-shop-gateways.php:83
+#: classes/models/shop/gateways/class-shop-gateways.php:84
+msgid "Test Payment"
+msgstr "Тестовый платеж"
+
+#: classes/models/shop/class-purchase.php:933
+msgid "An internal error has occurred, please try again or contact support."
+msgstr "Произошла внутренняя ошибка, повторите попытку или обратитесь в службу поддержки."
+
+#: classes/models/shop/class-purchase.php:268
+msgid "The zip / postal code you entered for your billing address is invalid"
+msgstr "Почтовый индекс, который вы ввели для платежного адреса, недействителен"
+
+#: classes/models/shop/class-purchase.php:741
+msgid "You must be logged into an account to purchase"
+msgstr "Вы должны войти в учетную запись для покупки"
+
+#: classes/models/shop/class-purchase.php:701 templates/shop/login.php:27
+msgid "Lost Password"
+msgstr "Забыли пароль"
+
+#: classes/models/shop/class-purchase.php:700
+msgid "The password you entered is incorrect. %sReset Password%s"
+msgstr "Введен неверный пароль. %sНабрать заново%s"
+
+#: classes/models/shop/class-purchase.php:683
+msgid "You must login or register to complete your purchase"
+msgstr "Вы должны войти или зарегистрироваться, чтобы завершить покупку"
+
+#: classes/models/shop/class-purchase.php:664
+msgid "Enter the password confirmation"
+msgstr "Введите подтверждение пароля"
+
+#: classes/models/shop/class-purchase.php:661
+#: classes/models/shop/class-purchase.php:719
+msgid "Enter a password"
+msgstr "Введите пароль"
+
+#: classes/models/shop/class-purchase.php:652
+msgid "Passwords don't match"
+msgstr "Пароли не совпадают"
+
+#: classes/models/shop/class-purchase.php:645
+#: classes/models/shop/class-purchase.php:757
+msgid "Enter an email"
+msgstr "Введите адрес электронной почты"
+
+#: classes/models/shop/class-purchase.php:638
+msgid "Email already used"
+msgstr "Адрес электронной почты уже используется"
+
+#: classes/models/shop/class-purchase.php:628
+msgid "You must register or login to complete your purchase"
+msgstr "Вы должны зарегистрироваться или войти, чтобы завершить покупку"
+
+#: classes/models/shop/class-purchase.php:621
+msgid "Invalid username"
+msgstr "Неверное имя пользователя"
+
+#: classes/models/shop/class-purchase.php:619
+msgid "Invalid username. Only lowercase letters (a-z) and numbers are allowed"
+msgstr "Неверное имя пользователя. Допускаются только строчные буквы (а-я) и цифры"
+
+#: classes/models/shop/class-purchase.php:614
+msgid "Username already taken"
+msgstr "Данное имя пользователя уже занято"
+
+#: classes/models/shop/class-purchase.php:535
+msgid "The user information is invalid"
+msgstr "Информация пользователя недействительна"
+
+#: classes/models/shop/class-purchase.php:531
+#: classes/models/shop/class-purchase.php:635
+#: classes/models/shop/class-purchase.php:750
+msgid "Invalid email"
+msgstr "Неверный адрес электронной почты"
+
+#: classes/models/shop/class-purchase.php:495
+msgid "You must agree to the terms of use"
+msgstr "Вы должны согласиться с условиями использования"
+
+#: classes/models/shop/class-purchase.php:253
+msgid "One or more of the discounts you entered is invalid"
+msgstr "Одна или несколько указанных вами скидок недействительны."
+
+#: classes/models/shop/class-purchase.php:231
+msgid "Enter discount"
+msgstr "Введите код на скидку"
+
+#: classes/models/shop/class-purchase.php:207
+msgid "The selected payment gateway is not enabled"
+msgstr "Выбранный платежный шлюз не включен"
+
+#: classes/models/shop/class-payments.php:1791
+msgid "Status changed from %s to %s"
+msgstr "Статус изменен с %s на %s"
+
+#: classes/models/shop/class-payments.php:872
+msgid "Shipping"
+msgstr "Доставляется"
+
+#: classes/models/shop/class-payments.php:870
+msgid "Failed"
+msgstr "Отклонено"
+
+#: classes/models/shop/class-payments.php:869
+msgid "Refunded"
+msgstr "Возвращено"
+
+#: classes/models/shop/class-payments.php:466
+msgid "Error creating new customer"
+msgstr "Ошибка при создании нового клиента"
+
+#: classes/models/shop/class-payments.php:451
+msgid "New Customers require a name and email address"
+msgstr "Для новых клиентов требуется имя и адрес электронной почты"
+
+#: classes/models/shop/class-payments.php:439
+msgid "Error Updating Payment"
+msgstr "Ошибка обновления платежа"
+
+#: classes/models/shop/class-order.php:749
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d элемент"
+msgstr[1] "%d элемента"
+msgstr[2] "%d элементов"
+
+#: classes/models/shop/class-order.php:737
+msgctxt "Order number by X"
+msgid "%s by %s"
+msgstr "%s по %s"
+
+#: classes/models/shop/class-order.php:733
+msgid "Guest"
+msgstr "Гость"
+
+#: classes/models/shop/class-order.php:716
+#: classes/models/shop/class-order.php:731
+msgctxt "full name"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: classes/models/shop/class-order.php:680
+#: templates-functions/checkout-restaurant-menu-functions.php:232
+msgid "Total"
+msgstr "Итого"
+
+#: classes/models/shop/class-order.php:681 templates/shop/history.php:12
+#: templates/shop/success.php:65
+msgid "Date"
+msgstr "Дата"
+
+#: classes/models/shop/class-order.php:679
+msgid "Purchased"
+msgstr "Куплено"
+
+#: classes/models/shop/class-order.php:678
+msgid "Order notes"
+msgstr "Примечания к заказу"
+
+#: classes/models/shop/class-order.php:676 templates/shop/history.php:14
+msgid "Status"
+msgstr "Статус"
+
+#: classes/models/shop/class-order.php:675
+#: admin/taxonomies/mp_menu_category/add_form_fields.php:2
+#: admin/taxonomies/mp_menu_category/edit_form_fields.php:2
+#: templates/shop/success.php:39
+msgid "Order"
+msgstr "Порядок"
+
+#: classes/models/shop/class-order.php:639
+msgid "Payment Notes"
+msgstr "Примечания к оплате"
+
+#: classes/models/shop/class-order.php:629
+msgid "Billing Address"
+msgstr "Платежный адрес"
+
+#: classes/models/shop/class-order.php:599 templates/shop/success.php:123
+msgid "Order Notes"
+msgstr "Примечания к заказу"
+
+#: classes/models/shop/class-order.php:579
+msgid "Order logs"
+msgstr "Журналы заказов"
+
+#: classes/models/shop/class-order.php:570
+msgid "Order Meta"
+msgstr "Данные заказа"
+
+#: classes/models/shop/class-order.php:560
+msgid "Update Order"
+msgstr "Обновить заказ"
+
+#: classes/models/shop/class-discount.php:411
+msgid "This discount is not active."
+msgstr "Эта скидка не активна."
+
+#: classes/models/shop/class-discount.php:405
+msgid "This discount is expired."
+msgstr "Срок действия этой скидки истек."
+
+#: classes/models/shop/class-discount.php:483
+msgid "This discount is not active yet."
+msgstr "Эта скидка еще не активна."
+
+#: classes/models/shop/class-discount.php:518
+msgid "This discount has reached its maximum usage."
+msgstr "Эта скидка достигла максимального уровня использования."
+
+#: classes/models/shop/class-discount.php:592
+msgid "This discount has already been redeemed."
+msgstr "Эта скидка уже выплачена"
+
+#: classes/models/shop/class-discount.php:628
+msgid "Minimum order of %s not met."
+msgstr "Минимальный порядок %s не соблюден."
+
+#: classes/models/shop/class-discount.php:722
+msgid "This discount is not valid for the cart contents."
+msgstr "Эта скидка не действительна для содержимого корзины."
+
+#: classes/models/shop/class-discount.php:698
+#: classes/models/shop/class-discount.php:712
+msgid "The product requirements for this discount are not met."
+msgstr "Требования продукта к данной скидке не соблюдены."
+
+#: classes/models/shop/class-discount.php:388
+msgid "This discount is invalid."
+msgstr "Эта скидка недействительна."
+
+#: classes/models/shop/class-checkout.php:432
+#: classes/models/shop/class-purchase.php:575
+msgid "Please enter billing state / province"
+msgstr "Укажите штат / провинцию платежного адреса"
+
+#: classes/models/shop/class-checkout.php:428
+#: classes/models/shop/class-purchase.php:571
+msgid "Please select your billing country"
+msgstr "Выберите страну платежного адреса"
+
+#: classes/models/shop/class-checkout.php:424
+#: classes/models/shop/class-purchase.php:567
+msgid "Please enter your billing city"
+msgstr "Укажите свой платежный город"
+
+#: classes/models/shop/class-checkout.php:420
+#: classes/models/shop/class-purchase.php:563
+msgid "Please enter your zip / postal code"
+msgstr "Введите почтовый индекс"
+
+#: classes/models/shop/class-checkout.php:411
+#: classes/models/shop/class-purchase.php:555
+msgid "Please enter your first name"
+msgstr "Пожалуйста, введите ваше имя"
+
+#: classes/models/shop/class-checkout.php:407
+#: classes/models/shop/class-purchase.php:551
+msgid "Please enter a valid email address"
+msgstr "Пожалуйста, введите действительный адрес электронной почты"
+
+#: classes/models/shop/class-cart.php:473
+#: classes/models/shop/class-cart.php:490
+msgid "excludes %s tax"
+msgstr "исключая  %s налога"
+
+#: classes/models/shop/class-cart.php:471
+#: classes/models/shop/class-cart.php:488
+msgid "includes %s tax"
+msgstr "включая %s налога"
+
+#: classes/models/shop/class-cart.php:258
+msgid "Cart saved successfully. You can restore your cart using this URL:"
+msgstr "Корзина успешно сохранена. Вы можете восстановить свою корзину, используя этот URL:"
+
+#: classes/models/shop/class-cart.php:257
+msgid "Success"
+msgstr "Успешно"
+
+#: classes/models/settings/class-settings.php:1814
+msgid "Settings updated."
+msgstr "Настройки обновлены."
+
+#: classes/models/settings/class-settings.php:1719
+msgid "Your transaction failed, please try again or contact site support."
+msgstr "Не удалось выполнить транзакцию, повторите попытку или обратитесь в службу поддержки сайта."
+
+#: classes/models/settings/class-settings.php:1385
+msgid "Add Tax Rate"
+msgstr "Добавить ставку налога"
+
+#: classes/models/settings/class-settings.php:1349
+#: classes/models/settings/class-settings.php:1380
+msgid "Remove Rate"
+msgstr "Удалить ставку"
+
+#: classes/models/settings/class-settings.php:1346
+#: classes/models/settings/class-settings.php:1377
+msgid "Apply to whole country"
+msgstr "Применить ко всей стране"
+
+#: classes/models/settings/class-settings.php:1332
+msgid "Choose a state"
+msgstr "Выберите область"
+
+#: classes/models/settings/class-settings.php:1315
+#: classes/models/settings/class-settings.php:1364
+msgid "Choose a country"
+msgstr "Выберите страну"
+
+#: classes/models/settings/class-settings.php:1297
+msgid "Rate"
+msgstr "Ставка"
+
+#: classes/models/settings/class-settings.php:1296
+msgid "Country Wide"
+msgstr "По всей стране"
+
+#: classes/models/settings/class-settings.php:1296
+msgid "Apply rate to whole country, regardless of state / province"
+msgstr "Применить ставку для всей страны, независимо от штата / провинции"
+
+#: classes/models/settings/class-settings.php:1295
+#: templates-functions/restaurant-menu-shop-functions.php:444
+msgid "State / Province"
+msgstr "Область / Район"
+
+#: classes/models/settings/class-settings.php:1294
+msgid "Country"
+msgstr "Страна"
+
+#: classes/models/settings/class-settings.php:1134
+msgid "Upload File"
+msgstr "Загрузите файл"
+
+#: classes/models/settings/class-settings.php:980
+msgid "The callback function used for the %s setting is missing."
+msgstr "Функция обратного вызова, используемая для установки %s отсутствует."
+
+#: classes/models/settings/class-settings-emails.php:276
+msgid ""
+"Email from Restaurant menu Menu items failed to send.\n"
+"Send time: %s\n"
+"To: %s\n"
+"Subject: %s\n"
+msgstr ""
+"Письмо от Меню Ресторана Не удалось отправить элементы меню.\n"
+"Время отправления: %s\n"
+"Кому: %s\n"
+"Тема: %s\n"
+
+#: classes/models/settings/class-settings-emails.php:253
+msgid "You cannot send email with Restaurant menu Emails until init/admin_init has been reached"
+msgstr "Вы не можете отправлять письма с электронной почты Меню ресторана, пока не достигнут init/admin_init"
+
+#: classes/models/settings/class-settings-emails.php:124
+msgid "Send Test Email"
+msgstr "Отправить тестовое письмо"
+
+#: classes/models/settings/class-settings-emails.php:124
+msgid "This will send a demo purchase receipt to the emails listed below."
+msgstr "Демо квитанция о покупке будет отправлена на адреса, перечисленные ниже."
+
+#: classes/models/settings/class-settings-emails.php:123
+msgid "Preview Purchase Receipt"
+msgstr "Предварительно просмотреть счет покупки"
+
+#: classes/models/settings/class-settings-emails.php:123
+msgid "Purchase Receipt Preview"
+msgstr "Предварительный просмотр счета покупки"
+
+#: classes/models/settings/class-settings-emails.php:109
+#: classes/models/settings/class-settings-emails.php:236
+msgid "No template, plain text only"
+msgstr "Нет шаблона, только обычный текст"
+
+#: classes/class-media.php:1197
+#: classes/models/settings/class-settings-emails.php:108
+#: classes/models/settings/class-settings-emails.php:235
+msgid "Default Template"
+msgstr "Шаблон по умолчанию"
+
+#: classes/models/parents/class-menu-query.php:452
+msgid "Improper date provided."
+msgstr "Предоставлена неправильная дата. "
+
+#: classes/models/parents/class-menu-query.php:480
+msgid "Last Year"
+msgstr "Прошлый год"
+
+#: classes/models/parents/class-menu-query.php:479
+msgid "This Year"
+msgstr "Этот год"
+
+#: classes/models/parents/class-menu-query.php:478
+msgid "Last Quarter"
+msgstr "Прошлый квартал"
+
+#: classes/models/parents/class-menu-query.php:477
+msgid "This Quarter"
+msgstr "Этот квартал"
+
+#: classes/models/parents/class-menu-query.php:476
+msgid "Last Month"
+msgstr "Прошлый месяц"
+
+#: classes/models/parents/class-menu-query.php:475
+msgid "This Month"
+msgstr "Этот месяц"
+
+#: classes/models/parents/class-menu-query.php:474
+msgid "Last Week"
+msgstr "Прошлая неделя"
+
+#: classes/models/parents/class-menu-query.php:473
+msgid "This Week"
+msgstr "Эта неделя"
+
+#: classes/models/parents/class-menu-query.php:472
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: classes/models/parents/class-menu-query.php:471
+msgid "Today"
+msgstr "Сегодня"
+
+#: classes/models/class-menu-item.php:490
+#: templates-functions/checkout-restaurant-menu-functions.php:63
+msgid "Free"
+msgstr "Бесплатно"
+
+#: classes/models/settings/class-settings.php:126
+#: classes/models/class-menu-item.php:448
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: classes/models/class-menu-item.php:435
+msgid "No checkout page has been configured. Visit <a href=\"%s\">Settings</a> to set one."
+msgstr "Не выбрана страница оплаты. Посетите <a href=\"%s\">Настройки</a> чтобы установить её."
+
+#: classes/models/class-import.php:640
+msgid "Zero size file menu_itemed"
+msgstr "Файл с нулевым размером menu_itemed"
+
+#: classes/models/class-emails.php:578
+msgid "Adds a link so users can view their receipt directly on your website if they are unable to view it in the browser correctly."
+msgstr "Добавляет ссылку, чтобы пользователи могли просматривать их квитанцию непосредственно на вашем веб-сайте, если они не могут просмотреть ее в браузере правильно."
+
+#: classes/models/class-emails.php:573
+msgid "Your site name"
+msgstr "Название вашего сайта"
+
+#: classes/models/class-emails.php:568
+msgid "The method of payment used for this purchase"
+msgstr "Способ оплаты, используемый для этой покупки"
+
+#: classes/models/class-emails.php:563
+msgid "The unique ID number for this purchase receipt"
+msgstr "Уникальный идентификационный номер для этой квитанции о покупке"
+
+#: classes/models/class-emails.php:558
+msgid "The unique ID number for this purchase"
+msgstr "Уникальный идентификационный номер для этой покупки"
+
+#: classes/models/class-emails.php:553
+msgid "The total price of the purchase"
+msgstr "Общая стоимость покупки"
+
+#: classes/models/class-emails.php:543
+msgid "The price of the purchase before taxes"
+msgstr "Цена покупки до уплаты налогов"
+
+#: classes/models/class-emails.php:538
+msgid "The date of the purchase"
+msgstr "Дата покупки"
+
+#: classes/models/class-emails.php:533
+msgid "The buyer's billing address"
+msgstr "Адрес покупателя для выставления счета."
+
+#: classes/models/class-emails.php:528
+msgid "The buyer's email address"
+msgstr "Адрес электронной почты покупателя"
+
+#: classes/models/class-emails.php:523
+msgid "The buyer's user name on the site, if they registered an account"
+msgstr "Имя пользователя покупателя на сайте, если он зарегистрировал учетную запись"
+
+#: classes/models/class-emails.php:518
+msgid "The buyer's full name, first and last"
+msgstr "Полное имя покупателя"
+
+#: classes/models/class-emails.php:513
+msgid "The buyer's first name"
+msgstr "Имя покупателя"
+
+#: classes/models/class-emails.php:508
+msgid "A list of purchased products"
+msgstr "Список приобретенных продуктов"
+
+#: classes/models/class-emails.php:410
+msgid "Click Here to Log In"
+msgstr "Кликните здесь, чтобы войти"
+
+#: classes/models/class-emails.php:409
+msgid "[Password entered at checkout]"
+msgstr "[Пароль, введенный при оформлении заказа]"
+
+#: classes/models/class-emails.php:409
+msgid "Password: %s"
+msgstr "Пароль: %s"
+
+#: classes/models/class-emails.php:407
+msgid "Your account info"
+msgstr "Информация о вашей учетной записи"
+
+#: classes/models/class-emails.php:406
+msgid "[%s] Your username and password"
+msgstr "[%s] Ваше имя пользователя и пароль"
+
+#: classes/models/class-emails.php:401
+msgid "E-mail: %s"
+msgstr "Адрес электронной почты: %s"
+
+#: classes/models/class-emails.php:400 classes/models/class-emails.php:408
+msgid "Username: %s"
+msgstr "Имя пользователя: %s"
+
+#: classes/models/class-emails.php:399
+msgid "New user registration"
+msgstr "Регистрация нового пользователя"
+
+#: classes/models/class-emails.php:398
+msgid "[%s] New User Registration"
+msgstr "[%s] Регистрация нового пользователя"
+
+#: classes/models/class-emails.php:372
+#: templates-functions/email-restaurant-menu-functions.php:441
+msgid "Thank you"
+msgstr "Спасибо"
+
+#: classes/models/class-emails.php:371
+#: templates-functions/email-restaurant-menu-functions.php:440
+msgid "Payment Method: "
+msgstr "Способ оплаты: "
+
+#: classes/models/class-emails.php:370
+#: templates-functions/email-restaurant-menu-functions.php:439
+msgid "Amount: "
+msgstr "Сумма: "
+
+#: classes/models/class-emails.php:369
+#: templates-functions/email-restaurant-menu-functions.php:438
+msgid "Purchased by: "
+msgstr "Покупатель: "
+
+#: classes/models/class-emails.php:367
+#: templates-functions/email-restaurant-menu-functions.php:436
+msgid "Purchased products:"
+msgstr "Приобретенные продукты:"
+
+#: classes/models/class-emails.php:366
+#: templates-functions/email-restaurant-menu-functions.php:435
+msgid "A new purchase has been made!"
+msgstr "Совершена новая покупка!"
+
+#: classes/models/class-emails.php:315
+msgid "New Sale!"
+msgstr "Новая продажа!"
+
+#: classes/models/class-emails.php:301
+msgid "New purchase - Order #%1$s"
+msgstr "Новая покупка - Заказ #%1$s"
+
+#: classes/models/shop/class-payments.php:439
+#: classes/models/shop/gateways/manual-payment-class.php:27
+#: classes/models/shop/gateways/test-manual-payment-class.php:27
+#: classes/models/shop/gateways/class-shop-gateways.php:233
+#: classes/models/shop/gateways/paypal-standard.php:28
+#: classes/models/class-errors.php:36 templates/shop/errors.php:4
+msgid "Error"
+msgstr "Ошибка"
+
+#: classes/models/class-emails.php:250 classes/models/class-emails.php:254
+msgid "Purchase Receipt1"
+msgstr "Квитанция о покупке1"
+
+#: classes/models/class-emails.php:65
+#: templates-functions/email-restaurant-menu-functions.php:379
+msgid "%1$sView it in your browser.%2$s"
+msgstr "%1$sПосмотрите в своем браузере.%2$s"
+
+#: classes/models/class-emails.php:45
+msgid "These are some sample notes added to a product."
+msgstr "Это некоторые примеры примечаний, добавленных к продукту."
+
+#: classes/models/class-emails.php:38
+msgid "Sample Product Title"
+msgstr "Образец названия продукта"
+
+#: classes/models/class-emails.php:180
+msgid "Thank you for your purchase. Your order details are shown below for your reference:"
+msgstr "Спасибо за покупку. Информация о вашем заказе приведена ниже для справки:"
+
+#: classes/models/class-emails.php:179
+msgid "Dear"
+msgstr "Здравствуйте"
+
+#: classes/controllers/class-controller-customer.php:246
+msgid "Invalid Customer ID"
+msgstr "Недопустимый ID клиента"
+
+#: classes/controllers/class-controller-customer.php:242
+msgid "Error deleting customer"
+msgstr "Ошибка удаления клиента"
+
+#: classes/controllers/class-controller-customer.php:210
+msgid "Please confirm you want to delete this customer"
+msgstr "Пожалуйста, подтвердите, что хотите удалить этого клиента"
+
+#: classes/controllers/class-controller-customer.php:195
+msgid "You do not have permission to delete this customer."
+msgstr "У вас нет разрешения на удаление этого клиента."
+
+#: classes/controllers/class-controller-customer.php:90
+msgid "The user name or password is incorrect"
+msgstr "Неверное имя пользователя или пароль"
+
+#: classes/models/shop/class-purchase.php:723
+#: classes/controllers/class-controller-customer.php:87
+msgid "The username you entered does not exist"
+msgstr "Введенное вами имя пользователя не существует"
+
+#: classes/controllers/class-controller-customer.php:84
+msgid "The password you entered is incorrect"
+msgstr "Введен неверный пароль"
+
+#: classes/models/class-extensions.php:35
+msgid "Extensions"
+msgstr "Дополнения"
+
+#: classes/class-media.php:1310 classes/models/class-menu-item.php:786
+msgid "Menu items"
+msgstr "Элементы меню"
+
+#: classes/class-media.php:1309 classes/models/class-menu-item.php:785
+msgid "Menu item"
+msgstr "Элемент меню"
+
+#: classes/class-media.php:1265
+msgid "Dark Gray"
+msgstr "Темно-серый"
+
+#: classes/class-media.php:1261
+msgid "Orange"
+msgstr "Оранжевый"
+
+#: classes/class-media.php:1257
+msgid "Yellow"
+msgstr "Желтый"
+
+#: classes/class-media.php:1253
+msgid "Green"
+msgstr "Зеленый"
+
+#: classes/class-media.php:1249
+msgid "Red"
+msgstr "Красный"
+
+#: classes/class-media.php:1245
+msgid "Blue"
+msgstr "Синий"
+
+#: classes/class-media.php:1241
+msgid "Gray"
+msgstr "Серый"
+
+#: classes/class-media.php:1237
+msgid "White"
+msgstr "Белый"
+
+#: classes/class-media.php:1283
+msgid "Large"
+msgstr "Большой"
+
+#: classes/class-media.php:1282
+msgid "Middle"
+msgstr "Средний"
+
+#: classes/class-media.php:1281
+msgid "Small"
+msgstr "Маленький"
+
+#: classes/class-media.php:482 classes/class-media.php:1233
+#: classes/class-media.php:1280
+msgid "Default"
+msgstr "По умолчанию"
+
+#: classes/class-media.php:1219
+msgid "Plain Text"
+msgstr "Простой текст"
+
+#: classes/class-media.php:1218
+msgid "Button"
+msgstr "Кнопка"
+
+#: classes/class-media.php:1384
+msgid "Terms of Agreement"
+msgstr "Условия соглашения"
+
+#: classes/class-media.php:1379
+msgid "Main"
+msgstr "Главное"
+
+#: classes/class-media.php:1373
+msgid "Checkout Settings"
+msgstr "Настройки оплаты"
+
+#: classes/class-media.php:1367
+msgid "New Sale Notifications"
+msgstr "Уведомление о новых продажах"
+
+#: classes/class-media.php:1361
+#: classes/models/shop/gateways/class-shop-gateways.php:77
+msgid "PayPal Standard"
+msgstr "PayPal Standard"
+
+#: classes/class-media.php:1360
+msgid "Gateways"
+msgstr "Шлюзы"
+
+#: classes/class-media.php:1348 configs/settings.php:8
+msgid "Currency Settings"
+msgstr "Настройки валюты"
+
+#: classes/class-media.php:1347 classes/class-media.php:1353
+#: configs/settings.php:5
+msgid "General"
+msgstr "Общие"
+
+#: classes/class-media.php:1158
+msgid "If Agree to Terms is checked, enter the agreement terms here."
+msgstr "Если «Согласиться на условия» отмечено, введите условия соглашения здесь."
+
+#: classes/class-media.php:1157
+msgid "Agreement Text"
+msgstr "Текст соглашения"
+
+#: classes/class-media.php:1151
+msgid "Label shown next to the agree to terms check box."
+msgstr "Текст, выводимый рядом с флажком \"Согласиться на условия\""
+
+#: classes/class-media.php:1150
+msgid "Agree to Terms Label"
+msgstr "Название для соглашения с условиями"
+
+#: classes/class-media.php:1145
+msgid "Check this box to show an Agree To Terms checkbox on the checkout page that users must agree to before purchasing."
+msgstr "Установите этот флажок, чтобы показать флажок «Согласиться на условия» на странице оплаты, с которой пользователи должны согласиться до совершения покупки."
+
+#: classes/class-media.php:1144
+msgid "Agree to Terms"
+msgstr "Согласие с условиями"
+
+#: classes/class-media.php:1139
+msgid "Agreement Settings"
+msgstr "Настройки Соглашения"
+
+#: classes/class-media.php:1132 classes/models/settings/class-settings.php:125
+#: classes/models/class-menu-item.php:448
+msgid "Add to Cart"
+msgstr "Добавить в корзину"
+
+#: classes/class-media.php:1130
+msgid "Text shown on the Add to Cart Buttons."
+msgstr "Текст, показанный на кнопках «Добавить в корзину»."
+
+#: classes/class-media.php:1129
+msgid "Add to Cart Text"
+msgstr "Текст добавления в корзину"
+
+#: classes/class-media.php:1125 classes/models/shop/class-cart.php:369
+#: classes/models/settings/class-settings.php:124
+#: templates-functions/checkout-restaurant-menu-functions.php:61
+msgid "Purchase"
+msgstr "Покупка"
+
+#: classes/class-media.php:1123
+msgid "The button label for completing a purchase."
+msgstr "Метка кнопки для завершения покупки."
+
+#: classes/class-media.php:1122
+msgid "Complete Purchase Text"
+msgstr "Текст завершения покупки"
+
+#: classes/class-media.php:1117 classes/class-media.php:1383
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: classes/class-media.php:1071
+msgid "Choose the size you want to use for the buttons."
+msgstr "Выберите размер, который вы хотите использовать для кнопок."
+
+#: classes/class-media.php:1070
+msgid "Button Size"
+msgstr "Размер кнопки"
+
+#: classes/class-media.php:1064
+msgid "Choose the color you want to use for the buttons."
+msgstr "Выберите цвет, который вы хотите использовать для кнопок."
+
+#: classes/class-media.php:1063
+msgid "Button Color"
+msgstr "Цвет кнопки"
+
+#: classes/class-media.php:1057
+msgid "Choose the style you want to use for the buttons."
+msgstr "Выберите стиль, который вы хотите использовать для кнопок."
+
+#: classes/class-media.php:1056
+msgid "Button Style"
+msgstr "Стиль кнопки"
+
+#: classes/class-media.php:1051
+msgid "Options for add to cart and purchase buttons"
+msgstr "Варианты кнопки покупки и добавления в корзину"
+
+#: classes/class-media.php:1050
+msgid "Add to cart button style:"
+msgstr "Стиль кнопки Добавить в корзину:"
+
+#: classes/class-media.php:1045
+msgid "Check this box to disable all included styling of buttons, checkout fields, and all other elements."
+msgstr "Установите этот флажок, чтобы отключить все включенные стили кнопок, полей оплаты и всех других элементов."
+
+#: classes/class-media.php:1044
+msgid "Disable Styles"
+msgstr "Отключить стили"
+
+#: classes/class-media.php:1039 classes/class-media.php:1370
+msgid "Style Settings"
+msgstr "Настройки стиля"
+
+#: classes/class-media.php:1027
+msgid "Check this box if you do not want to receive sales notification emails."
+msgstr "Установите этот флажок, если вы не хотите получать электронные письма с уведомлением о продажах."
+
+#: classes/class-media.php:1026
+msgid "Disable Sale Notifications"
+msgstr "Отключить уведомления о продажах"
+
+#: classes/class-media.php:1020
+msgid "Enter the email address(es) that should receive a notification anytime a sale is made, one per line"
+msgstr "Введите адрес (адреса) электронной почты, которые должны получать уведомление о продаже в любое время, по одному в строке"
+
+#: classes/class-media.php:1019
+msgid "Sale Notification Emails"
+msgstr "Email уведомления о продаже"
+
+#: classes/class-media.php:1013
+msgid "Enter the text that is sent as sale notification email after completion of a purchase. HTML is accepted. Available template tags:"
+msgstr "Введите текст, который отправляется как уведомление о продаже после завершения покупки. HTML допустим. Доступные теги шаблона письма:"
+
+#: classes/class-media.php:1012
+msgid "Sale Notification"
+msgstr "Уведомление о продаже"
+
+#: classes/class-media.php:1006
+msgid "Enter the subject line for the sale notification email."
+msgstr "Введите тему письма для электронного уведомления о продаже."
+
+#: classes/class-media.php:1005
+msgid "Sale Notification Subject"
+msgstr "Тема письма уведомлений о продаже"
+
+#: classes/class-media.php:1000
+msgid "Sale Notifications for shop owner"
+msgstr "Уведомление о продаже для владельца магазина"
+
+#: classes/class-media.php:994
+msgid ""
+"Dear {name},\n"
+"\n"
+"Thank you for your purchase. Your order details are shown below for your reference:\n"
+"{menu_item_list}\n"
+"Total: {price}\n"
+"\n"
+"{receipt_link}"
+msgstr ""
+"Здравствуйте {name},\n"
+"\n"
+"Спасибо за вашу покупку. Детали вашего заказа:\n"
+"{menu_item_list}\n"
+"Итого: {price}\n"
+"\n"
+"{receipt_link}"
+
+#: classes/class-media.php:992
+msgid "Enter the text that is sent as purchase receipt email to users after completion of a successful purchase. HTML is accepted. Available template tags:"
+msgstr "Введите текст, который будет отправлен в качестве квитанции об успешном завершении покупки пользователем. HTML допустим. Доступные теги шаблона письма:"
+
+#: classes/class-media.php:985
+msgid "Enter the heading for the purchase receipt email."
+msgstr "Введите заголовок для электронного письма о покупке."
+
+#: classes/class-media.php:984
+msgid "Purchase Email Heading"
+msgstr "Заголовок для письма о покупке"
+
+#: classes/class-media.php:978
+msgid "Enter the subject line for the purchase receipt email."
+msgstr "Введите тему для электронного письма-счета о покупке."
+
+#: classes/class-media.php:977
+msgid "Purchase Email Subject"
+msgstr "Тема для письма о покупке"
+
+#: classes/class-media.php:971
+msgid "Email to send purchase receipts from. This will act as the \"from\" and \"reply-to\" address."
+msgstr "Адрес электронной почты для отправки квитанций о покупке. Он будет работать как адрес \\«from\\» и \\«reply-to\\»."
+
+#: classes/class-media.php:970
+msgid "From Email"
+msgstr "От Email"
+
+#: classes/class-media.php:964
+msgid "The name purchase receipts are said to come from. Use your site or shop name."
+msgstr "Название, которое будет отображаться как имя отправителя. Используйте название своего сайта или магазина."
+
+#: classes/class-media.php:963
+msgid "From Name"
+msgstr "От имени"
+
+#: classes/class-media.php:958 classes/class-media.php:980
+#: classes/class-media.php:987 classes/class-media.php:991
+#: classes/class-media.php:1366 classes/models/class-emails.php:147
+#: classes/models/class-emails.php:150
+#: classes/models/settings/class-settings-emails.php:142
+msgid "Purchase Receipt"
+msgstr "Квитанция о покупке"
+
+#: classes/class-media.php:945
+msgid "Upload or choose a logo to be displayed at the top of the purchase receipt emails. Displayed in HTML emails only."
+msgstr "Загрузите или выберите логотип, который будет отображаться в верхней части электронных писем о покупках. Отображается только в HTML-письмах."
+
+#: classes/class-media.php:944
+msgid "Logo"
+msgstr "Логотип"
+
+#: classes/class-media.php:938
+msgid "Choose a template. Click \"Save Changes\", then \"Preview Purchase Receipt\" to see the new template."
+msgstr "Выберите шаблон. Нажмите \\«Сохранить изменения\\», затем \\«Предварительный просмотр покупки\\», чтобы увидеть новый шаблон."
+
+#: classes/class-media.php:937 classes/class-media.php:1365
+msgid "Email Template"
+msgstr "Шаблон письма"
+
+#: classes/class-media.php:917
+msgid "Allow items amount to be changed on the checkout page."
+msgstr "Разрешить изменение суммы товаров на странице оформления заказа."
+
+#: classes/class-media.php:916
+msgid "Items Amount"
+msgstr "Количество товаров"
+
+#: classes/class-media.php:911
+msgid "Immediately redirect to checkout after adding an item to the cart."
+msgstr "Немедленно перенаправлять на страницу оформления заказа после добавления товара в корзину."
+
+#: classes/class-media.php:910
+msgid "Redirect to Checkout"
+msgstr "Перенаправлять на страницу покупки"
+
+#: classes/class-media.php:905
+msgid "Check this box to enable AJAX for the shopping cart."
+msgstr "Установите этот флажок, чтобы включить AJAX для корзины покупок."
+
+#: classes/class-media.php:904
+msgid "Enable Ajax"
+msgstr "Включить Ajax"
+
+#: classes/class-media.php:898
+msgid "Login Form Only"
+msgstr "Только форма входа в систему"
+
+#: classes/class-media.php:897
+msgid "Registration Form Only"
+msgstr "Только форма регистрации"
+
+#: classes/class-media.php:896
+msgid "Registration and Login Forms"
+msgstr "Регистрация и вход в систему"
+
+#: classes/class-media.php:892
+msgid "Display the registration and login forms on the checkout page for non-logged-in users."
+msgstr "Показывать форму регистрации и авторизации на странице оплаты для незарегистрированных пользователей."
+
+#: classes/class-media.php:891
+msgid "Show Register / Login Form?"
+msgstr "Показывать форму регистрации / входа в систему?"
+
+#: classes/class-media.php:885
+msgid "Disable Guest Checkout"
+msgstr "Отключить возможность покупки для пользователей, которые не вошли в систему"
+
+#: classes/class-media.php:880
+msgid "Check this to force users to be redirected to the secure checkout page. You must have an SSL certificate installed to use this option."
+msgstr "Поставьте этот флажок, чтобы заставить пользователей перенаправляться на страницу безопасных покупок. Для использования этого параметра у вас должен быть установлен сертификат SSL."
+
+#: classes/class-media.php:879
+msgid "Enforce SSL on Checkout"
+msgstr "Обеспечить SSL при оформлении заказа"
+
+#: classes/class-media.php:874
+msgid "Check this box to display shipping address field on the checkout page."
+msgstr "Установите этот флажок, чтобы отобразить поле адреса доставки на странице оплаты."
+
+#: classes/class-media.php:873
+msgid "Enable Shipping"
+msgstr "Включить доставку"
+
+#: classes/class-media.php:868
+msgid "Check this box to display telephone field on the checkout page."
+msgstr "Установите этот флажок, чтобы отобразить поле телефона на странице оплаты."
+
+#: classes/class-media.php:855
+msgid "If payments via PayPal are not getting marked as complete, then check this box. <a href=\"https://developer.paypal.com/webapps/developer/docs/classic/products/instant-payment-notification/\" target=\"_blank\">More about IPN</a>"
+msgstr "Если платежи через PayPal не будут отмечены как завершенные, установите этот флажок. <a href=\"https://developer.paypal.com/webapps/developer/docs/classic/products/instant-payment-notification/\" target=\"_blank\">Подробнее о IPN</a>"
+
+#: classes/class-media.php:854
+msgid "Disable PayPal IPN Verification"
+msgstr "Отключить проверку IPN PayPal"
+
+#: classes/class-media.php:848
+msgid "Enter the name of the page style to use, or leave blank for default"
+msgstr "Введите имя используемого стиля страницы или оставьте пустым значение по умолчанию"
+
+#: classes/class-media.php:847
+msgid "PayPal Page Style"
+msgstr "Стиль страницы PayPal"
+
+#: classes/class-media.php:841
+msgid "Enter your PayPal account's email"
+msgstr "Введите адрес электронной почты своей учетной записи PayPal"
+
+#: classes/class-media.php:840
+msgid "PayPal Email"
+msgstr "PayPal Email"
+
+#: classes/class-media.php:789
+msgid "Display these icons on the checkout page"
+msgstr "Отображать эти значков на странице оплаты"
+
+#: classes/class-media.php:788
+msgid "Payment Method Icons"
+msgstr "Иконки способов оплаты"
+
+#: classes/class-media.php:783
+msgid "While in test mode no live transactions are processed. To fully use test mode, you must have a sandbox (test) account for the payment gateway you are testing."
+msgstr "В тестовом режиме транзакции в реальном времени не обрабатываются. Чтобы полностью использовать тестовый режим, вы должны иметь тестовую учетную запись (sandbox) для тестового шлюза, который вы тестируете."
+
+#: classes/class-media.php:782
+msgid "Test Mode"
+msgstr "Тестовый режим"
+
+#: classes/class-media.php:776
+msgid "This gateway will be loaded automatically on the checkout page."
+msgstr "Этот шлюз будет загружен автоматически на странице оплаты."
+
+#: classes/class-media.php:775
+msgid "Default Gateway"
+msgstr "Шлюз по умолчанию"
+
+#: classes/class-media.php:769
+msgid "Choose the payment gateways you want to enable."
+msgstr "Выберите платежные шлюзы, которые вы хотите включить."
+
+#: classes/class-media.php:768
+msgid "Active Payment Gateways"
+msgstr "Активные платежные шлюзы"
+
+#: classes/class-media.php:432
+msgid "Decimal Separator"
+msgstr "Десятичный разделитель"
+
+#: classes/class-media.php:424
+msgid "Thousand Separator"
+msgstr "Разделитель тысячных"
+
+#: classes/class-media.php:419
+msgid "After - 10$"
+msgstr "После - 10$"
+
+#: classes/class-media.php:418
+msgid "Before - $10"
+msgstr "До - $10"
+
+#: classes/class-media.php:415
+msgid "Choose the location of the currency sign."
+msgstr "Выберите местоположение знака валюты."
+
+#: classes/class-media.php:406
+msgid "Choose your currency. <i>Note that some payment gateways have currency restrictions.</i>"
+msgstr "Выберите валюту. <i>Обратите внимание, что некоторые платежные шлюзы имеют валютные ограничения.</i>"
+
+#: classes/class-media.php:371
+msgid "This page shows a complete purchase history for the current user. Use <i>[mprm_purchase_history]</i> shortcode on this page."
+msgstr "На этой странице показана полная история покупок для текущего пользователя. Используйте <i>[mprm_purchase_history]</i> шорткод на этой странице."
+
+#: classes/class-media.php:370
+msgid "Purchase History Page"
+msgstr "Страница истории покупок"
+
+#: classes/class-media.php:362
+msgid "The page buyers are sent to if their transaction is cancelled or fails."
+msgstr "Страница, на которую покупатели отправляются, если их транзакция отменена или не удалась."
+
+#: classes/class-media.php:361
+msgid "Failed Transaction Page"
+msgstr "Страница сбойной транзакции"
+
+#: classes/class-media.php:353
+msgid "The page buyers are sent to after completing their purchases. Use <i>[mprm_success]</i> shortcode on this page."
+msgstr "Страница, на которую покупатели отправляются после завершения покупок. Используйте <i>[mprm_success]</i> шорткод на этой странице."
+
+#: classes/class-media.php:352
+msgid "Success Transaction Page"
+msgstr "Страница успешной транзакции"
+
+#: classes/class-media.php:348 classes/class-media.php:357
+#: classes/class-media.php:366 classes/class-media.php:375
+msgid "Select a page"
+msgstr "Выберите страницу"
+
+#: classes/class-media.php:344
+msgid "The page where buyers will complete their purchases. Use <i>[mprm_checkout]</i> shortcode on this page."
+msgstr "Страница, на которой покупатели завершат покупки. Используйте <i>[mprm_checkout]</i> шорткод на этой странице."
+
+#: classes/class-media.php:343
+msgid "Checkout Page"
+msgstr "Страница оплаты"
+
+#: classes/class-media.php:339
+msgid "Sell food and beverages online"
+msgstr "Продавать еду и напитки онлайн"
+
+#: classes/class-media.php:337
+msgid "Enable eCommerce"
+msgstr "Активировать eCommerce"
+
+#: classes/class-media.php:392
+msgid "Category Layout"
+msgstr "Расположение категорий"
+
+#: classes/class-media.php:1656
+msgid "This is where store orders are stored."
+msgstr "Здесь хранятся заказы магазина."
+
+#: classes/class-media.php:1654
+msgctxt "Admin menu name"
+msgid "Orders"
+msgstr "Заказы"
+
+#: classes/class-media.php:1653
+msgid "Parent Orders"
+msgstr "Родительские заказы"
+
+#: classes/class-media.php:1652
+msgid "No Orders found in trash"
+msgstr "Заказы не найдены в корзине"
+
+#: classes/class-media.php:1651
+msgid "No Orders found"
+msgstr "Заказы не найдены"
+
+#: classes/class-media.php:1650
+msgid "Search Orders"
+msgstr "Поиск заказов"
+
+#: classes/class-media.php:1648 classes/class-media.php:1649
+msgid "View Order"
+msgstr "Просмотр заказа"
+
+#: classes/class-media.php:1647 classes/models/shop/class-payments.php:868
+msgid "New Order"
+msgstr "Новый заказ"
+
+#: classes/class-media.php:1646
+msgid "Edit Order"
+msgstr "Редактировать заказ"
+
+#: classes/class-media.php:1645
+#: classes/models/shop/reports/customer-report-class.php:146
+msgid "Edit"
+msgstr "Редактировать"
+
+#: classes/class-media.php:1644
+msgid "Add New Order"
+msgstr "Добавить новый заказ"
+
+#: classes/class-media.php:1643
+msgid "Add Order"
+msgstr "Добавить заказ"
+
+#: classes/class-media.php:1642
+msgctxt "shop_order post type singular name"
+msgid "Order"
+msgstr "Заказ"
+
+#: classes/class-media.php:224 classes/class-media.php:1641
+msgid "Orders"
+msgstr "Заказы"
+
+#: classes/class-hooks.php:1002
+msgid "%s order restored from the Trash."
+msgid_plural "%s orders restored from the Trash."
+msgstr[0] "%s заказ восстановлен из корзины."
+msgstr[1] "%s заказа восстановлены из корзины."
+msgstr[2] "%s заказов восстановлены из корзины."
+
+#: classes/class-hooks.php:1001
+msgid "%s order moved to the Trash."
+msgid_plural "%s orders moved to the Trash."
+msgstr[0] "%s заказ перемещен в корзину."
+msgstr[1] "%s заказа перемещены в корзину."
+msgstr[2] "%s заказов перемещено в корзину."
+
+#: classes/class-hooks.php:1000
+msgid "%s order permanently deleted."
+msgid_plural "%s orders permanently deleted."
+msgstr[0] "%s заказ навсегда удален."
+msgstr[1] "%s заказа навсегда удалены."
+msgstr[2] "%s заказов навсегда удалены."
+
+#: classes/class-hooks.php:999
+msgid "%s order not updated, somebody is editing it."
+msgid_plural "%s orders not updated, somebody is editing them."
+msgstr[0] "%s заказ не обновляется, кто-то его редактирует."
+msgstr[1] "%s заказа не обновляются, кто-то их редактирует."
+msgstr[2] "%s заказов не обновляются, кто-то их редактирует."
+
+#: classes/class-hooks.php:998
+msgid "%s order updated."
+msgid_plural "%s orders updated."
+msgstr[0] "%s заказ обновлен."
+msgstr[1] "%s заказа обновлены."
+msgstr[2] "%s заказов обновлено."
+
+#: classes/class-hooks.php:994
+msgid "%s menu item restored from the Trash."
+msgid_plural "%s menu items restored from the Trash."
+msgstr[0] "%s элемент меню восстановлен из корзины."
+msgstr[1] "%s элемента меню восстановлены из корзины."
+msgstr[2] "%s элементов меню восстановлены из корзины."
+
+#: classes/class-hooks.php:993
+msgid "%s menu item moved to the Trash."
+msgid_plural "%s menu items moved to the Trash."
+msgstr[0] "%s элемент меню перемещен в корзину."
+msgstr[1] "%s элемента меню перемещены в корзину."
+msgstr[2] "%s элементов меню перемещены в корзину."
+
+#: classes/class-hooks.php:992
+msgid "%s menu item permanently deleted."
+msgid_plural "%s menu items permanently deleted."
+msgstr[0] "%s элемент меню навсегда удален."
+msgstr[1] "%s элемента меню навсегда удалены."
+msgstr[2] "%s элементов меню навсегда удалены."
+
+#: classes/class-hooks.php:991
+msgid "%s menu item not updated, somebody is editing it."
+msgid_plural "%s menu items not updated, somebody is editing them."
+msgstr[0] "%s элемент меню не обновлён, кто-то его редактирует."
+msgstr[1] "%s элемента меню не обновлены, кто-то их редактирует."
+msgstr[2] "%s элементов меню не обновлены, кто-то их редактирует."
+
+#: classes/class-hooks.php:990
+msgid "%s menu item updated."
+msgid_plural "%s menu items updated."
+msgstr[0] "%s элемент меню обновлен."
+msgstr[1] "%s элемента меню обновлены."
+msgstr[2] "%s элементов меню обновлены."
+
+#: classes/class-hooks.php:975
+msgid "Order updated and email sent."
+msgstr "Заказ обновлен и уведомительное письмо отправлено."
+
+#: classes/class-hooks.php:974
+msgid "Order draft updated."
+msgstr "Обновлен черновик заказа."
+
+#: classes/class-hooks.php:973
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: classes/class-hooks.php:972
+msgid "Order scheduled for: <strong>%1$s</strong>."
+msgstr "Заказ запланирован на: <strong>%1$s</strong>."
+
+#: classes/class-hooks.php:971
+msgid "Order submitted."
+msgstr "Заказ отправлен."
+
+#: classes/class-hooks.php:970
+msgid "Order saved."
+msgstr "Заказ сохранен."
+
+#: classes/class-hooks.php:968
+msgid "Order restored to revision from %s"
+msgstr "Заказ восстановлен до версии %s"
+
+#: classes/class-hooks.php:966
+msgid "Custom field deleted."
+msgstr "Пользовательское поле удалено."
+
+#: classes/class-hooks.php:965
+msgid "Custom field updated."
+msgstr "Пользовательское поле обновлено."
+
+#: classes/class-hooks.php:964 classes/class-hooks.php:967
+#: classes/class-hooks.php:969
+msgid "Order updated."
+msgstr "Заказ обновлен."
+
+#: classes/class-hooks.php:728
+msgid "Import menu items, categories, images and other data."
+msgstr "Импортируйте элементы меню, категории, изображения и другие данные."
+
+#: admin/shop/buy-plugin-form.php:26 admin/shop/buy-theme-form.php:26
+msgid "Excluding %1$s&#37; tax"
+msgstr "Без учета %1$s&#37; налога"
+
+#: admin/shop/buy-plugin-form.php:24 admin/shop/buy-theme-form.php:24
+msgid "Includes %1$s&#37; tax"
+msgstr "Включает %1$s&#37; налог"
+
+#: configs/settings.php:29 admin/shop/buy-plugin-form.php:20
+#: admin/shop/buy-theme-form.php:20 templates/widgets/cart/theme-mode.php:10
+#: templates/widgets/cart/plugin-mode.php:17
+#: templates/widgets/cart/plugin-mode.php:27
+msgid "Checkout"
+msgstr "Оплата"
+
+#: admin/settings/select.php:12
+msgctxt "no dropdown items"
+msgid "None"
+msgstr "Ничего"
+
+#: admin/settings/select.php:11
+msgctxt "all dropdown items"
+msgid "All"
+msgstr "Все"
+
+#: admin/notices/install-plugin.php:6
+msgid "Skip"
+msgstr "Пропустить"
+
+#: admin/notices/customer-updated.php:2
+msgid "Customer successfully updated."
+msgstr "Клиент успешно обновлен."
+
+#: admin/notices/customer-deleted.php:2
+msgid "Customer successfully deleted."
+msgstr "Клиент успешно удален."
+
+#: admin/metaboxes/order/update-order.php:99
+msgid "Recalculate"
+msgstr "Пересчитать"
+
+#: admin/metaboxes/order/update-order.php:98
+msgid "Recalculate Totals"
+msgstr "Пересчет итогов"
+
+#: admin/metaboxes/order/update-order.php:91 templates/shop/success.php:117
+msgid "Total Price"
+msgstr "Итоговая цена"
+
+#: templates/shop/success.php:110
+#: templates-functions/checkout-restaurant-menu-functions.php:223
+msgid "Tax"
+msgstr "Налог"
+
+#: admin/metaboxes/order/update-order.php:59 templates/shop/success.php:72
+msgid "Fees"
+msgstr "Сборы"
+
+#: classes/class-media.php:899 admin/metaboxes/order/update-order.php:52
+msgid "None"
+msgstr "Ничего"
+
+#: admin/metaboxes/order/update-order.php:48
+msgid "Discount Code"
+msgstr "Код скидки"
+
+#: admin/metaboxes/order/update-order.php:38
+msgid "Time:"
+msgstr "Время:"
+
+#: admin/metaboxes/order/update-order.php:31
+msgid "Date:"
+msgstr "Дата:"
+
+#: admin/metaboxes/order/update-order.php:20
+msgid "Status:"
+msgstr "Статус:"
+
+#: admin/metaboxes/order/order-purchased.php:121
+msgid "No %s included with this purchase"
+msgstr "Нет %s включенных в эту покупку"
+
+#: admin/metaboxes/order/order-purchased.php:94 templates/shop/success.php:153
+#: templates/shop/checkout-cart.php:15
+msgid "Quantity"
+msgstr "Количество"
+
+#: admin/metaboxes/order/order-purchased.php:62
+#: templates/widgets/cart/plugin-mode.php:16
+#: templates/widgets/cart/plugin-mode.php:26
+#: templates-functions/checkout-restaurant-menu-functions.php:161
+msgid "Total:"
+msgstr "Итого:"
+
+#: admin/metaboxes/order/order-notes.php:22
+msgid "Add Note"
+msgstr "Добавить примечание"
+
+#: admin/metaboxes/order/order-notes.php:18
+msgid "No order notes"
+msgstr "Нет примечаний к заказу"
+
+#: admin/metaboxes/order/order-meta.php:41
+msgid "Transaction ID:"
+msgstr "ID транзакции:"
+
+#: admin/metaboxes/order/order-meta.php:33
+msgid "IP:"
+msgstr "IP:"
+
+#: admin/metaboxes/order/order-meta.php:26
+msgid "Key:"
+msgstr "Ключ:"
+
+#: admin/metaboxes/order/order-meta.php:18
+msgid "Gateway:"
+msgstr "Шлюз:"
+
+#: admin/metaboxes/order/order-customer.php:46
+msgid "Click \"Save Order\" to create new customer"
+msgstr "Нажмите «Сохранить заказ», чтобы создать нового клиента"
+
+#: admin/metaboxes/order/order-customer.php:43
+msgid "Save a customer"
+msgstr "Сохранить клиента"
+
+#: admin/metaboxes/order/order-customer.php:37
+msgid "Phone number:"
+msgstr "Номер телефона:"
+
+#: admin/metaboxes/order/order-customer.php:27
+msgid "Name:"
+msgstr "Имя:"
+
+#: admin/metaboxes/order/order-customer.php:21
+msgid "New Customer"
+msgstr "Новый клиент"
+
+#: admin/metaboxes/order/order-billing-address.php:62
+#: admin/metaboxes/order/order-billing-address.php:63
+msgid "Select a state"
+msgstr "Выберите штат"
+
+#: admin/metaboxes/order/order-billing-address.php:49
+msgctxt "State / province of address"
+msgid "State / Province:"
+msgstr "Округ / Регион:"
+
+#: admin/metaboxes/order/order-billing-address.php:42
+#: admin/metaboxes/order/order-billing-address.php:43
+msgid "Select a country"
+msgstr "Выбрать страну"
+
+#: admin/metaboxes/order/order-billing-address.php:31
+msgctxt "Address country"
+msgid "Country:"
+msgstr "Страна:"
+
+#: admin/metaboxes/order/order-billing-address.php:24
+msgctxt "Zip / Postal code of address"
+msgid "Zip / Postal Code:"
+msgstr "Почтовый индекс:"
+
+#: admin/metaboxes/order/order-billing-address.php:19
+msgctxt "Address City"
+msgid "City:"
+msgstr "Город:"
+
+#: admin/metaboxes/order/order-billing-address.php:12
+msgid "Street Address Line 2:"
+msgstr "Адрес (строка 2):"
+
+#: admin/metaboxes/order/order-billing-address.php:8
+msgid "Street Address Line 1:"
+msgstr "Адрес (строка 1):"
+
+#: admin/metaboxes/order/notes.php:5
+msgid "Delete this payment note"
+msgstr "Удалить это примечание к заказу"
+
+#: admin/metaboxes/order/order-meta.php:50
+msgid "Contact phone:"
+msgstr "Контактный телефон:"
+
+#: admin/import/header.php:2
+msgid "Restaurant Menu Import / Export"
+msgstr "Меню ресторана Импорт / Экспорт"
+
+#: admin/import/export.php:2
+msgid "When you click the button below WordPress will create an XML file for you to save to your computer. Once you've saved the download file, you can use the Import function in another WordPress installation to import the content from this site."
+msgstr "Когда вы нажмете кнопку ниже, WordPress создаст файл XML для сохранения на вашем компьютере. После того, как вы сохранили загруженный файл, вы можете использовать функцию импорта в другой установке WordPress для импорта содержимого с этого сайта."
+
+#: admin/customers/overview.php:59
+msgid "Update customer"
+msgstr "Обновление клиента"
+
+#: admin/customers/overview.php:50
+msgid "No user selected"
+msgstr "Пользователь не выбран"
+
+#: admin/customers/overview.php:48
+msgid "No available users"
+msgstr "Нет доступных пользователей"
+
+#: admin/customers/overview.php:43
+msgid "User ID:"
+msgstr "Идентификатор пользователя:"
+
+#: admin/customers/overview.php:32
+msgid "Full name:"
+msgstr "Полное имя:"
+
+#: admin/customers/overview.php:26 admin/metaboxes/order/order-customer.php:32
+#: admin/metaboxes/order/customer-information.php:7
+msgid "Email:"
+msgstr "Адрес электронной почты:"
+
+#: classes/models/shop/class-order.php:609 admin/customers/overview.php:21
+msgid "Customer Details"
+msgstr "Информация о клиенте"
+
+#: admin/customers/index.php:12
+msgid "Search Customers"
+msgstr "Поиск клиента"
+
+#: classes/class-media.php:232
+#: classes/models/shop/reports/customer-report-class.php:49
+#: admin/customers/index.php:8
+msgid "Customers"
+msgstr "Клиенты"
+
+#: admin/customers/delete.php:38
+msgid "Delete Customer"
+msgstr "Удалить клиента"
+
+#: admin/customers/delete.php:27
+msgid "Delete all associated payments and records?"
+msgstr "Удалить все связанные платежи и записи?"
+
+#: admin/customers/delete.php:22
+msgid "Are you sure you want to delete this customer?"
+msgstr "Вы действительно хотите удалить этого клиента?"
+
+#: admin/customers/delete.php:6 admin/customers/message.php:2
+msgid "Delete customer"
+msgstr "Удалить клиента"
+
+#. Author of the plugin
+msgid "MotoPress"
+msgstr "MotoPress"
+
+#: templates-functions/restaurant-menu-functions.php:1057
+msgid "Home"
+msgstr "Главная"
+
+#: admin/notices/customer-deleted.php:3 admin/notices/customer-updated.php:3
+msgid "Dismiss this notice."
+msgstr "Закрыть это уведомление."
+
+#: classes/class-media.php:414
+msgid "Currency Position"
+msgstr "Позиция валюты"
+
+#: classes/class-media.php:405
+msgid "Currency"
+msgstr "Валюта"
+
+#: classes/class-media.php:399
+msgid "Choose the way to display your menu items within category."
+msgstr "Выберите способ отображения элементов меню в категории."
+
+#: configs/settings.php:7
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: templates/common/related-items.php:6
+#: templates-functions/theme-support-functions.php:92
+msgid "You might also like"
+msgstr "Вам также может понравиться"
+
+#: templates/common/price-box.php:9
+msgid "Price: %s"
+msgstr "Цена: %s"
+
+#: configs/settings.php:25
+msgid "Right with space"
+msgstr "Пробел и справа"
+
+#: configs/settings.php:24
+msgid "Left with space"
+msgstr "Слева с пространством"
+
+#: configs/settings.php:23
+msgid "Right"
+msgstr "Справа"
+
+#: configs/settings.php:22
+msgid "Left"
+msgstr "Слева"
+
+#: configs/metaboxes.php:50
+msgid "Image Gallery"
+msgstr "Галерея"
+
+#: configs/metaboxes.php:41 configs/metaboxes.php:44
+#: admin/quick-edit/menu-item.php:15 templates/shop/success.php:149
+#: templates/emails/menu-item-list.php:28
+#: templates-functions/email-restaurant-menu-functions.php:156
+msgid "SKU"
+msgstr "SKU"
+
+#: configs/metaboxes.php:32 configs/metaboxes.php:35
+#: admin/quick-edit/menu-item.php:68 templates/common/attributes.php:11
+#: templates-functions/theme-support-functions.php:48
+msgid "Portion Size"
+msgstr "Размер порции"
+
+#: configs/metaboxes.php:24 admin/quick-edit/menu-item.php:21
+#: templates/common/nutritional.php:12
+msgid "Nutrition Facts"
+msgstr "Пищевая ценность"
+
+#: configs/language-admin-js.php:11
+msgid "Choose"
+msgstr "Выбрать"
+
+#: configs/language-admin-js.php:10 admin/customers/delete.php:39
+#: admin/metaboxes/order/order-customer.php:44
+msgid "Cancel"
+msgstr "Отмена"
+
+#: configs/language-admin-js.php:9
+msgid "Insert Restaurant Menu Shortcode"
+msgstr "Вставить шорткод Меню Ресторана"
+
+#: configs/language-admin-js.php:8
+msgid "Select"
+msgstr "Выбрать"
+
+#: configs/language-admin-js.php:7
+msgid "Choose an image"
+msgstr "Выберите изображение"
+
+#: configs/language-admin-js.php:6
+msgid "Insert"
+msgstr "Вставить"
+
+#: configs/language-admin-js.php:5
+msgid "Insert a media"
+msgstr "Вставить медиа"
+
+#: configs/language-admin-js.php:3
+msgid "Delete Image"
+msgstr "Удалить изображение"
+
+#: classes/widgets/class-menu-item-widget.php:28
+msgid "Restaurant Menu Items"
+msgstr "Элементы меню ресторана"
+
+#: classes/widgets/class-menu-item-widget.php:26
+msgid "Display menu items."
+msgstr "Отобразить элементы меню."
+
+#: classes/widgets/class-category-widget.php:26
+msgid "Restaurant Menu Categories"
+msgstr "Категории меню ресторана"
+
+#: classes/widgets/class-category-widget.php:24
+msgid "Display categories."
+msgstr "Показывать категории."
+
+#: classes/shortcodes/class-shortcode-category.php:101
+msgid "Menu Categories"
+msgstr "Категории меню"
+
+#: classes/shortcodes/class-shortcode-category.php:76
+#: classes/shortcodes/class-shortcode-category.php:82
+#: classes/shortcodes/class-shortcode-category.php:88
+#: classes/shortcodes/class-shortcode-category.php:94
+#: classes/shortcodes/class-shortcode-item.php:108
+#: classes/shortcodes/class-shortcode-item.php:114
+#: classes/shortcodes/class-shortcode-item.php:120
+#: classes/shortcodes/class-shortcode-item.php:126
+#: classes/shortcodes/class-shortcode-item.php:132
+#: classes/shortcodes/class-shortcode-item.php:138
+#: classes/shortcodes/class-shortcode-item.php:144
+#: classes/shortcodes/class-shortcode-item.php:150
+msgid "No"
+msgstr "Нет"
+
+#: classes/shortcodes/class-shortcode-category.php:76
+#: classes/shortcodes/class-shortcode-category.php:82
+#: classes/shortcodes/class-shortcode-category.php:88
+#: classes/shortcodes/class-shortcode-category.php:94
+#: classes/shortcodes/class-shortcode-item.php:108
+#: classes/shortcodes/class-shortcode-item.php:114
+#: classes/shortcodes/class-shortcode-item.php:120
+#: classes/shortcodes/class-shortcode-item.php:126
+#: classes/shortcodes/class-shortcode-item.php:132
+#: classes/shortcodes/class-shortcode-item.php:138
+#: classes/shortcodes/class-shortcode-item.php:144
+#: classes/shortcodes/class-shortcode-item.php:150
+msgid "Yes"
+msgstr "Да"
+
+#: classes/shortcodes/class-shortcode-category.php:69
+#: classes/shortcodes/class-shortcode-item.php:77 classes/class-media.php:510
+#: classes/class-media.php:597 classes/class-media.php:684
+msgid "6 columns"
+msgstr "6 колонок"
+
+#: classes/shortcodes/class-shortcode-category.php:68
+#: classes/shortcodes/class-shortcode-item.php:76 classes/class-media.php:509
+#: classes/class-media.php:596 classes/class-media.php:683
+msgid "4 columns"
+msgstr "4 колонки"
+
+#: classes/shortcodes/class-shortcode-category.php:67
+#: classes/shortcodes/class-shortcode-item.php:75 classes/class-media.php:508
+#: classes/class-media.php:595 classes/class-media.php:682
+msgid "3 columns"
+msgstr "3 колонки"
+
+#: classes/shortcodes/class-shortcode-category.php:66
+#: classes/shortcodes/class-shortcode-item.php:74 classes/class-media.php:507
+#: classes/class-media.php:594 classes/class-media.php:681
+msgid "2 columns"
+msgstr "2 колонки"
+
+#: classes/shortcodes/class-shortcode-category.php:65
+#: classes/shortcodes/class-shortcode-item.php:73 classes/class-media.php:506
+#: classes/class-media.php:593 classes/class-media.php:680
+msgid "1 column"
+msgstr "1 колонка"
+
+#: classes/modules/class-post.php:238 configs/metaboxes.php:15
+#: admin/quick-edit/menu-item.php:7 templates/shop/success.php:156
+#: templates/shop/checkout-cart.php:13
+#: templates-functions/theme-support-functions.php:12
+msgid "Price"
+msgstr "Цена"
+
+#: classes/modules/class-post.php:235
+msgid "Image"
+msgstr "Изобр."
+
+#: classes/modules/class-breadcrumbs.php:180
+msgid "Page"
+msgstr "Страница"
+
+#: classes/models/class-import.php:429
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Не удалось импортировать %s &#8220;%s&#8221;"
+
+#: classes/models/class-import.php:377
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; уже существует."
+
+#: classes/models/class-import.php:364
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Не удалось импортировать &#8220;%s&#8221;: Недопустимый тип сообщения %s"
+
+#: classes/models/class-import.php:341 classes/models/class-import.php:458
+msgid "Failed to import %s %s"
+msgstr "Не удалось импортировать %s %s"
+
+#: classes/models/class-import.php:173
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Не удалось импортировать автора %s. Их сообщения будут отнесены к текущему пользователю."
+
+#: classes/models/class-import.php:138
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Этот файл WXR (версия %s) может не поддерживаться этой версией импортера. Пожалуйста, подумайте об обновлении."
+
+#: classes/models/class-import.php:123
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Файл экспорта не найден в <code>%s</code>. Вероятно, это вызвано проблемой прав. "
+
+#: classes/models/class-import.php:118 classes/models/class-import.php:122
+#: classes/models/class-import.php:131
+msgid "Sorry, there has been an error."
+msgstr "Извините, произошла ошибка."
+
+#: classes/models/class-import.php:645
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком велик, ограничение %s"
+
+#: classes/models/class-import.php:636
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл имеет неправильный размер"
+
+#: classes/models/class-import.php:630
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер ответил на ошибку %1$d %2$s"
+
+#: classes/models/class-import.php:625
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не ответил"
+
+#: classes/models/class-import.php:588
+msgid "Invalid file type"
+msgstr "Неверный тип файла"
+
+#: classes/models/class-import.php:578
+msgid "Fetching attachments is not enabled"
+msgstr "Захват вложений не включен"
+
+#: classes/models/class-import.php:769
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Не забудьте обновить пароли и роли импортированных пользователей."
+
+#: classes/models/class-import.php:768
+msgid "Have fun!"
+msgstr "Повеселись!"
+
+#: classes/models/class-import.php:768
+msgid "All done."
+msgstr "Все сделано."
+
+#: classes/models/class-import.php:255
+msgid "- Select -"
+msgstr "- Выбрать -"
+
+#: classes/models/class-import.php:254
+msgid "or assign posts to an existing user:"
+msgstr "или назначить записи существующему пользователю:"
+
+#: classes/models/class-import.php:252
+msgid "assign posts to an existing user:"
+msgstr "назначать записи существующему пользователю:"
+
+#: classes/models/class-import.php:246
+msgid "as a new user:"
+msgstr "как новый пользователь:"
+
+#: classes/models/class-import.php:243
+msgid "or create new user with login name:"
+msgstr "или создать нового пользователя с именем для входа в систему:"
+
+#: classes/models/class-import.php:234
+msgid "Import author:"
+msgstr "Импорт автора:"
+
+#: classes/models/class-import.php:211
+msgid "Submit"
+msgstr "Представить на рассмотрение"
+
+#: classes/models/class-import.php:208
+msgid "Download and import file attachments"
+msgstr "Загрузка и импорт вложений файлов"
+
+#: classes/models/class-import.php:205
+msgid "Import Attachments"
+msgstr "Импорт вложений"
+
+#: classes/models/class-import.php:196
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Если новый пользователь создан WordPress, новый пароль будет генерироваться случайным образом, а роль нового пользователя будет установлена как %s. Потребуется изменить данные нового пользователя вручную."
+
+#: classes/models/class-import.php:194
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr "Чтобы упростить редактирование и сохранение импортированного содержимого, вам может потребоваться переназначить автора импортированного элемента существующему пользователю этого сайта. Например, вы можете импортировать все записи в качестве записей <code>admin</code>s."
+
+#: classes/models/class-import.php:193
+msgid "Assign Authors"
+msgstr "Назначить авторов"
+
+#: classes/libs/parsers.php:84 classes/libs/parsers.php:88
+#: classes/libs/parsers.php:264 classes/libs/parsers.php:477
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Это не файл WXR; отсутствует / недействительный номер версии WXR"
+
+#: classes/libs/parsers.php:45
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Подробности выше. Сейчас плагин повторит попытку импортирования с другим парсером..."
+
+#: classes/libs/parsers.php:44 classes/libs/parsers.php:75
+#: classes/libs/parsers.php:81
+msgid "There was an error when reading this WXR file"
+msgstr "При чтении этого WXR файла произошла ошибка"
+
+#: classes/class-media.php:42
+msgid "Read more"
+msgstr "Читать дальше"
+
+#: classes/class-media.php:248
+msgid "Import / Export"
+msgstr "Импорт / Экспорт"
+
+#: classes/class-media.php:240
+msgid "Settings"
+msgstr "Настройки"
+
+#: classes/class-media.php:217 templates/common/ingredients.php:11
+#: templates-functions/theme-support-functions.php:26
+msgid "Ingredients"
+msgstr "Ингредиенты"
+
+#: classes/class-media.php:196 classes/class-media.php:1608
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: classes/shortcodes/class-shortcode-item.php:157 classes/class-media.php:189
+#: classes/class-media.php:1606 classes/class-media.php:1618
+msgid "Menu Items"
+msgstr "Элементы меню"
+
+#. Plugin Name of the plugin
+msgid "Restaurant Menu"
+msgstr "Restaurant Menu"
+
+#: classes/class-media.php:804 classes/class-media.php:826
+#: admin/widgets/category/form.php:3 admin/widgets/menu/form.php:2
+msgid "Title"
+msgstr "Название"
+
+#: classes/models/settings/class-settings.php:1298
+#: configs/language-admin-js.php:35
+#: admin/taxonomies/mp_menu_category/add_form_fields.php:15
+#: admin/taxonomies/mp_menu_category/edit_form_fields.php:22
+#: admin/metaboxes/order/order-purchased.php:69
+#: templates/shop/checkout-cart.php:63 templates/shop/checkout-cart.php:84
+msgid "Remove"
+msgstr "Удалить"
+
+#: admin/taxonomies/mp_menu_category/add_form_fields.php:14
+#: admin/taxonomies/mp_menu_category/edit_form_fields.php:21
+msgid "Set Image"
+msgstr "Установить изображение"
+
+#: admin/taxonomies/mp_menu_category/add_form_fields.php:11
+#: admin/taxonomies/mp_menu_category/edit_form_fields.php:15
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: admin/taxonomies/mp_menu_category/add_form_fields.php:6
+#: admin/taxonomies/mp_menu_category/edit_form_fields.php:8
+msgid "Icon"
+msgstr "Иконка"
+
+#: admin/popups/add-shortcodes.php:43
+msgid "Insert shortcode"
+msgstr "Вставить шорткод"
+
+#: classes/shortcodes/class-shortcode-category.php:98
+#: classes/class-media.php:583 classes/class-media.php:670
+#: classes/class-media.php:755 admin/popups/shortcode-mprm_categories.php:59
+#: admin/popups/shortcode-mprm_items.php:127 admin/widgets/category/form.php:52
+msgid "Description length"
+msgstr "Длина описания"
+
+#: admin/popups/add-shortcodes.php:29
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: admin/popups/add-shortcodes.php:23
+msgid "Hover color"
+msgstr "Цвет при наведении"
+
+#: admin/popups/add-shortcodes.php:17
+msgid "Overlay color"
+msgstr "Цвет наложения"
+
+#: classes/shortcodes/class-shortcode-category.php:92
+#: admin/popups/shortcode-mprm_categories.php:53
+#: admin/widgets/category/form.php:49
+msgid "Show category description"
+msgstr "Показать описание категории"
+
+#: classes/shortcodes/class-shortcode-category.php:86
+#: admin/popups/shortcode-mprm_categories.php:47
+#: admin/widgets/category/form.php:45
+msgid "Show category icon"
+msgstr "Показать значок категории"
+
+#: classes/shortcodes/class-shortcode-item.php:148 classes/class-media.php:576
+#: classes/class-media.php:663 classes/class-media.php:748
+#: admin/popups/shortcode-mprm_items.php:120 admin/widgets/menu/form.php:99
+msgid "Link item"
+msgstr "Элемент ссылки"
+
+#: classes/shortcodes/class-shortcode-item.php:136 classes/class-media.php:563
+#: classes/class-media.php:650 classes/class-media.php:742
+#: admin/popups/shortcode-mprm_items.php:106 admin/widgets/menu/form.php:89
+msgid "Show ingredients"
+msgstr "Показать ингредиенты"
+
+#: classes/shortcodes/class-shortcode-item.php:130 classes/class-media.php:557
+#: classes/class-media.php:644 classes/class-media.php:736
+#: admin/popups/shortcode-mprm_items.php:100 admin/widgets/menu/form.php:85
+msgid "Show tags"
+msgstr "Показать теги"
+
+#: classes/shortcodes/class-shortcode-item.php:124 classes/class-media.php:551
+#: classes/class-media.php:638 classes/class-media.php:729
+#: admin/popups/shortcode-mprm_items.php:94 admin/widgets/menu/form.php:81
+msgid "Show price"
+msgstr "Показать цену"
+
+#: classes/shortcodes/class-shortcode-item.php:118 classes/class-media.php:545
+#: classes/class-media.php:632 classes/class-media.php:723
+#: admin/popups/shortcode-mprm_items.php:88 admin/widgets/menu/form.php:76
+msgid "Show excerpt"
+msgstr "Показать выдержку"
+
+#: classes/shortcodes/class-shortcode-item.php:112 classes/class-media.php:538
+#: classes/class-media.php:625 admin/popups/shortcode-mprm_items.php:82
+#: admin/widgets/menu/form.php:72
+msgid "Show featured image"
+msgstr "Показать изображение"
+
+#: classes/shortcodes/class-shortcode-item.php:106 classes/class-media.php:532
+#: classes/class-media.php:619 classes/class-media.php:717
+#: admin/popups/add-shortcodes.php:35 admin/popups/shortcode-mprm_items.php:76
+#: admin/widgets/menu/form.php:68
+msgid "Show attributes"
+msgstr "Показать атрибуты"
+
+#: classes/shortcodes/class-shortcode-category.php:80
+#: admin/popups/shortcode-mprm_categories.php:41
+#: admin/widgets/category/form.php:41
+msgid "Show category featured image"
+msgstr "Показать выбранное изображение категории"
+
+#: classes/shortcodes/class-shortcode-item.php:86 classes/class-media.php:523
+#: classes/class-media.php:610 classes/class-media.php:709
+#: admin/popups/shortcode-mprm_items.php:71 admin/widgets/menu/form.php:63
+msgid "Don`t show"
+msgstr "Не показывать"
+
+#: classes/shortcodes/class-shortcode-item.php:85 classes/class-media.php:522
+#: classes/class-media.php:609 classes/class-media.php:708
+#: admin/popups/shortcode-mprm_items.php:70 admin/widgets/menu/form.php:62
+msgid "Title with image"
+msgstr "Название с изображением"
+
+#: classes/shortcodes/class-shortcode-item.php:84 classes/class-media.php:521
+#: classes/class-media.php:608 classes/class-media.php:707
+#: admin/popups/shortcode-mprm_items.php:69 admin/widgets/menu/form.php:61
+msgid "Only text"
+msgstr "Только текст"
+
+#: classes/shortcodes/class-shortcode-category.php:74
+#: classes/shortcodes/class-shortcode-item.php:82 classes/class-media.php:519
+#: classes/class-media.php:606 classes/class-media.php:705
+#: admin/popups/shortcode-mprm_categories.php:35
+#: admin/popups/shortcode-mprm_items.php:66 admin/widgets/category/form.php:37
+#: admin/widgets/menu/form.php:59
+msgid "Show category name"
+msgstr "Показать название категории"
+
+#: admin/popups/shortcode-mprm_categories.php:27
+#: admin/popups/shortcode-mprm_categories.php:28
+#: admin/popups/shortcode-mprm_categories.php:29
+#: admin/popups/shortcode-mprm_categories.php:30
+#: admin/popups/shortcode-mprm_items.php:46
+#: admin/popups/shortcode-mprm_items.php:47
+#: admin/popups/shortcode-mprm_items.php:48
+#: admin/popups/shortcode-mprm_items.php:49 admin/widgets/category/form.php:29
+#: admin/widgets/category/form.php:30 admin/widgets/category/form.php:31
+#: admin/widgets/category/form.php:32 admin/widgets/menu/form.php:44
+#: admin/widgets/menu/form.php:45 admin/widgets/menu/form.php:46
+#: admin/widgets/menu/form.php:47
+msgid "columns"
+msgstr "столбцы"
+
+#: admin/popups/shortcode-mprm_categories.php:26
+#: admin/popups/shortcode-mprm_items.php:45 admin/widgets/category/form.php:28
+#: admin/widgets/menu/form.php:43
+msgid "column"
+msgstr "столбец"
+
+#: classes/shortcodes/class-shortcode-category.php:63
+#: classes/shortcodes/class-shortcode-item.php:71 classes/class-media.php:504
+#: classes/class-media.php:591 classes/class-media.php:678
+#: admin/popups/shortcode-mprm_categories.php:23
+#: admin/popups/shortcode-mprm_items.php:42 admin/widgets/category/form.php:26
+#: admin/widgets/menu/form.php:41
+msgid "Columns"
+msgstr "Столбцы"
+
+#: classes/shortcodes/class-shortcode-item.php:67
+#: admin/popups/shortcode-mprm_items.php:36 admin/widgets/menu/form.php:37
+msgid "Menu item IDs"
+msgstr "Идентификаторы элементов меню"
+
+#: classes/shortcodes/class-shortcode-item.php:63 classes/class-media.php:210
+#: classes/modules/class-post.php:236 admin/popups/shortcode-mprm_items.php:24
+#: admin/widgets/menu/form.php:27
+msgid "Tags"
+msgstr "Теги"
+
+#: classes/shortcodes/class-shortcode-category.php:59
+#: classes/shortcodes/class-shortcode-item.php:59 classes/class-media.php:203
+#: classes/modules/class-post.php:237
+#: admin/popups/shortcode-mprm_categories.php:11
+#: admin/popups/shortcode-mprm_items.php:12 admin/widgets/category/form.php:14
+#: admin/widgets/menu/form.php:15
+msgid "Categories"
+msgstr "Категории"
+
+#: classes/shortcodes/class-shortcode-category.php:54
+#: classes/shortcodes/class-shortcode-item.php:54 classes/class-media.php:396
+#: classes/class-media.php:484 classes/class-media.php:1355
+#: configs/settings.php:17 admin/popups/shortcode-mprm_categories.php:6
+#: admin/popups/shortcode-mprm_items.php:6 admin/widgets/category/form.php:10
+#: admin/widgets/menu/form.php:10
+msgid "List"
+msgstr "Список"
+
+#: classes/shortcodes/class-shortcode-category.php:54
+#: classes/shortcodes/class-shortcode-item.php:54 classes/class-media.php:395
+#: classes/class-media.php:483 classes/class-media.php:1354
+#: configs/settings.php:13 admin/popups/shortcode-mprm_categories.php:5
+#: admin/popups/shortcode-mprm_items.php:5 admin/widgets/category/form.php:9
+#: admin/widgets/menu/form.php:9
+msgid "Grid"
+msgstr "Сетка"
+
+#: classes/shortcodes/class-shortcode-category.php:53
+#: classes/shortcodes/class-shortcode-item.php:53
+#: admin/popups/shortcode-mprm_categories.php:2
+#: admin/popups/shortcode-mprm_items.php:2 admin/widgets/category/form.php:7
+#: admin/widgets/menu/form.php:6
+msgid "View mode"
+msgstr "Режим просмотра"
+
+#: admin/popups/add-shortcodes.php:7
+msgid "Show menu items"
+msgstr "Показать пункты меню"
+
+#: admin/popups/add-shortcodes.php:6
+msgid "Show categories"
+msgstr "Показать категории"
+
+#: admin/popups/add-shortcodes.php:3
+msgid "Shortcode type"
+msgstr "Тип шорткода"
+
+#: admin/quick-edit/menu-item.php:59 admin/metaboxes/nutritional.php:33
+#: templates-functions/restaurant-menu-functions.php:1189
+msgid "Protein"
+msgstr "Белков"
+
+#: admin/quick-edit/menu-item.php:54 admin/metaboxes/nutritional.php:28
+#: templates-functions/restaurant-menu-functions.php:1188
+msgid "Fat"
+msgstr "Жиров"
+
+#: admin/quick-edit/menu-item.php:48 admin/metaboxes/nutritional.php:23
+#: templates-functions/restaurant-menu-functions.php:1187
+msgid "Carbohydrates"
+msgstr "Углеводов"
+
+#: admin/quick-edit/menu-item.php:42 admin/metaboxes/nutritional.php:18
+#: templates-functions/restaurant-menu-functions.php:1186
+msgid "Sodium"
+msgstr "Натрия"
+
+#: admin/quick-edit/menu-item.php:36 admin/metaboxes/nutritional.php:13
+#: templates-functions/restaurant-menu-functions.php:1185
+msgid "Fiber"
+msgstr "Волокон"
+
+#: admin/quick-edit/menu-item.php:30 admin/metaboxes/nutritional.php:8
+#: templates-functions/restaurant-menu-functions.php:1184
+msgid "Cholesterol"
+msgstr "Холестерин"
+
+#: admin/quick-edit/menu-item.php:24 admin/metaboxes/nutritional.php:3
+#: templates-functions/restaurant-menu-functions.php:1183
+msgid "Calories"
+msgstr "Калорий"
+
+#: admin/metaboxes/mp_menu_gallery.php:25
+msgid "Add images"
+msgstr "Добавление изображений"
+
+#: admin/metaboxes/mp_menu_gallery.php:22
+msgid "Use CTRL/Command key to select multiple images"
+msgstr "Используйте CTRL / Command для выбора нескольких изображений"
+
+#: classes/models/shop/reports/customer-report-class.php:148
+#: configs/language-admin-js.php:4 admin/metaboxes/order/notes.php:5
+#: admin/metaboxes/mp_menu_gallery.php:11
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/metaboxes/mp_menu_gallery.php:11
+msgid "Delete image"
+msgstr "Удалить изображение"
+
+#: admin/quick-edit/menu-item.php:81 admin/metaboxes/attributes.php:13
+#: templates-functions/restaurant-menu-functions.php:1204
+msgid "Size"
+msgstr "Размер"
+
+#: admin/quick-edit/menu-item.php:76 admin/metaboxes/attributes.php:8
+#: templates-functions/restaurant-menu-functions.php:1205
+msgid "Volume"
+msgstr "Объем"
+
+#: admin/quick-edit/menu-item.php:71 admin/metaboxes/attributes.php:3
+#: templates-functions/restaurant-menu-functions.php:1206
+msgid "Weight"
+msgstr "Вес"
+
+#: admin/import/import.php:1
+msgid "Import"
+msgstr "Импорт"
+
+#: admin/import/greet.php:3
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "Выберите файл WXR (.xml) для загрузки, затем нажмите «Загрузить файл и импортировать»."
+
+#: admin/import/greet.php:2
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "Привет! Загрузите файл WordPress eXtended RSS (WXR), и мы импортируем сообщения, страницы, комментарии, настраиваемые поля, категории и теги на этот сайт."
+
+#: admin/import/export.php:1 admin/import/export.php:6
+msgid "Export"
+msgstr "Экспорт"
